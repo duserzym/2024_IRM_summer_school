@@ -1,0 +1,927 @@
+tab	specimens
+specimen	experiments	sample	dir_alpha95	dir_comp	dir_dec	dir_inc	dir_n_comps	dir_n_measurements	dir_tilt_correction	dir_dang	dir_mad_free	meas_step_max	meas_step_min	meas_step_unit	analysts	instrument_codes	software_packages	int_corr	citations	method_codes	result_quality	volume	weight	location	site
+GD1-1a		GD1-1																	This study	LP-NOMAG				Adirondacks	GD1
+GD1-1a	GD1-1a_LP-DIR-T	GD1-1		mt	189.0	-13.3	1	27	-1	0.0	3.7	831	273	K		hargrave 2022-08-01 10:48:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	GD1
+GD1-1a	GD1-1a_LP-DIR-T	GD1-1		mt	235.3	41.0	1	27	0	0.0	3.7	831	273	K		hargrave 2022-08-01 10:48:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-1a	GD1-1a_LP-DIR-T	GD1-1		mt	235.3	41.0	1	27	100	0.0	3.7	831	273	K		hargrave 2022-08-01 10:48:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	GD1
+GD1-2a	GD1-2a_LP-DIR-T	GD1-2		mt	259.6	49.0	2	4	100	0.0	4.1	831	823	K		hargrave 2022-08-01 11:12:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	GD1
+GD1-2a	GD1-2a_LP-DIR-T	GD1-2		lt	344.5	66.0	2	4	0	23.2	5.5	423	273	K		hargrave 2022-08-01 11:12:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-2a	GD1-2a_LP-DIR-T	GD1-2		mt	259.6	49.0	2	4	0	0.0	4.1	831	823	K		hargrave 2022-08-01 11:12:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-2a	GD1-2a_LP-DIR-T	GD1-2		lt	344.5	66.0	2	4	100	23.2	5.5	423	273	K		hargrave 2022-08-01 11:12:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD1
+GD1-2a	GD1-2a_LP-DIR-T	GD1-2		mt	201.2	7.4	2	4	-1	0.0	4.1	831	823	K		hargrave 2022-08-01 11:12:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	GD1
+GD1-2a	GD1-2a_LP-DIR-T	GD1-2		lt	214.3	50.6	2	4	-1	23.2	5.5	423	273	K		hargrave 2022-08-01 11:12:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD1
+GD1-2a		GD1-2																	This study	LP-NOMAG				Adirondacks	GD1
+GD1-3a		GD1-3																	This study	LP-NOMAG				Adirondacks	GD1
+GD1-3a	GD1-3a_LP-DIR-T	GD1-3		mt	195.3	30.3	2	4	-1	8.8	3.9	831	823	K		hargrave 2022-08-01 10:51:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD1
+GD1-3a	GD1-3a_LP-DIR-T	GD1-3		lt	216.6	65.0	2	10	-1	16.5	9.9	573	273	K		hargrave 2022-08-01 10:51:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD1
+GD1-3a	GD1-3a_LP-DIR-T	GD1-3		mt	262.3	61.3	2	4	0	8.8	3.9	831	823	K		hargrave 2022-08-01 10:51:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-3a	GD1-3a_LP-DIR-T	GD1-3		lt	3.7	70.9	2	10	0	16.5	9.9	573	273	K		hargrave 2022-08-01 10:51:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-3a	GD1-3a_LP-DIR-T	GD1-3		mt	262.3	61.3	2	4	100	8.8	3.9	831	823	K		hargrave 2022-08-01 10:51:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD1
+GD1-3a	GD1-3a_LP-DIR-T	GD1-3		lt	3.7	70.9	2	10	100	16.5	9.9	573	273	K		hargrave 2022-08-01 10:51:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD1
+GD1-4a		GD1-4																	This study	LP-NOMAG				Adirondacks	GD1
+GD1-4a	GD1-4a_LP-DIR-T	GD1-4		lt	16.6	63.6	2	6	100	26.0	1.7	473	273	K		hargrave 2022-08-01 10:53:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD1
+GD1-4a	GD1-4a_LP-DIR-T	GD1-4		mt	323.5	81.9	2	5	-1	1.1	3.7	831	813	K		hargrave 2022-08-01 10:53:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD1
+GD1-4a	GD1-4a_LP-DIR-T	GD1-4		lt	134.8	53.3	2	6	-1	26.0	1.7	473	273	K		hargrave 2022-08-01 10:53:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD1
+GD1-4a	GD1-4a_LP-DIR-T	GD1-4		lt	16.6	63.6	2	6	0	26.0	1.7	473	273	K		hargrave 2022-08-01 10:53:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-4a	GD1-4a_LP-DIR-T	GD1-4		mt	257.6	64.0	2	5	100	1.1	3.7	831	813	K		hargrave 2022-08-01 10:53:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD1
+GD1-4a	GD1-4a_LP-DIR-T	GD1-4		mt	257.6	64.0	2	5	0	1.1	3.7	831	813	K		hargrave 2022-08-01 10:53:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-5a	GD1-5a_LP-DIR-T	GD1-5		lt	2.6	65.4	2	10	0	27.6	2.8	573	273	K		hargrave 2022-08-01 10:55:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-5a		GD1-5																	This study	LP-NOMAG				Adirondacks	GD1
+GD1-5a	GD1-5a_LP-DIR-T	GD1-5		mt	13.8	70.4	2	4	-1	0.9	6.9	831	823	K		hargrave 2022-08-01 10:55:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD1
+GD1-5a	GD1-5a_LP-DIR-T	GD1-5		lt	137.3	56.3	2	10	-1	27.6	2.8	573	273	K		hargrave 2022-08-01 10:55:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD1
+GD1-5a	GD1-5a_LP-DIR-T	GD1-5		mt	255.3	55.7	2	4	0	0.9	6.9	831	823	K		hargrave 2022-08-01 10:55:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-5a	GD1-5a_LP-DIR-T	GD1-5		mt	255.3	55.7	2	4	100	0.9	6.9	831	823	K		hargrave 2022-08-01 10:55:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD1
+GD1-5a	GD1-5a_LP-DIR-T	GD1-5		lt	2.6	65.4	2	10	100	27.6	2.8	573	273	K		hargrave 2022-08-01 10:55:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD1
+GD1-6a	GD1-6a_LP-DIR-T	GD1-6		lt	9.4	62.7	2	5	100	21.4	1.9	448	273	K		hargrave 2022-08-01 10:59:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD1
+GD1-6a	GD1-6a_LP-DIR-T	GD1-6		mt	258.4	65.8	2	5	100	4.2	8.2	831	813	K		hargrave 2022-08-01 10:59:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD1
+GD1-6a	GD1-6a_LP-DIR-T	GD1-6		lt	9.4	62.7	2	5	0	21.4	1.9	448	273	K		hargrave 2022-08-01 10:59:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-6a	GD1-6a_LP-DIR-T	GD1-6		mt	258.4	65.8	2	5	0	4.2	8.2	831	813	K		hargrave 2022-08-01 10:59:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-6a	GD1-6a_LP-DIR-T	GD1-6		mt	64.1	77.4	2	5	-1	4.2	8.2	831	813	K		hargrave 2022-08-01 10:59:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD1
+GD1-6a		GD1-6																	This study	LP-NOMAG				Adirondacks	GD1
+GD1-6a	GD1-6a_LP-DIR-T	GD1-6		lt	152.8	49.3	2	5	-1	21.4	1.9	448	273	K		hargrave 2022-08-01 10:59:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD1
+GD1-7a	GD1-7a_LP-DIR-T	GD1-7		mt	251.0	60.5	2	5	100	3.9	7.4	831	813	K		hargrave 2022-08-01 11:01:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD1
+GD1-7a		GD1-7																	This study	LP-NOMAG				Adirondacks	GD1
+GD1-7a	GD1-7a_LP-DIR-T	GD1-7		mt	11.7	77.4	2	5	-1	3.9	7.4	831	813	K		hargrave 2022-08-01 11:01:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD1
+GD1-7a	GD1-7a_LP-DIR-T	GD1-7		lt	133.5	58.5	2	8	-1	24.2	1.6	523	273	K		hargrave 2022-08-01 11:01:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD1
+GD1-7a	GD1-7a_LP-DIR-T	GD1-7		mt	251.0	60.5	2	5	0	3.9	7.4	831	813	K		hargrave 2022-08-01 11:01:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-7a	GD1-7a_LP-DIR-T	GD1-7		lt	349.8	67.0	2	8	100	24.2	1.6	523	273	K		hargrave 2022-08-01 11:01:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD1
+GD1-7a	GD1-7a_LP-DIR-T	GD1-7		lt	349.8	67.0	2	8	0	24.2	1.6	523	273	K		hargrave 2022-08-01 11:01:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-8a	GD1-8a_LP-DIR-T	GD1-8		mt	248.0	58.8	2	5	0	3.4	3.6	831	813	K		hargrave 2022-08-01 11:13:38	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-8a		GD1-8																	This study	LP-NOMAG				Adirondacks	GD1
+GD1-8a	GD1-8a_LP-DIR-T	GD1-8		lt	0.7	65.2	2	8	100	26.5	1.9	523	273	K		hargrave 2022-08-01 11:13:38	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD1
+GD1-8a	GD1-8a_LP-DIR-T	GD1-8		lt	0.7	65.2	2	8	0	26.5	1.9	523	273	K		hargrave 2022-08-01 11:13:38	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD1
+GD1-8a	GD1-8a_LP-DIR-T	GD1-8		mt	332.1	74.9	2	5	-1	3.4	3.6	831	813	K		hargrave 2022-08-01 11:13:38	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD1
+GD1-8a	GD1-8a_LP-DIR-T	GD1-8		lt	128.4	58.1	2	8	-1	26.5	1.9	523	273	K		hargrave 2022-08-01 11:13:38	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD1
+GD1-8a	GD1-8a_LP-DIR-T	GD1-8		mt	248.0	58.8	2	5	100	3.4	3.6	831	813	K		hargrave 2022-08-01 11:13:38	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD1
+GD2-1a	GD2-1a_LP-DIR-T	GD2-1		lt	154.6	54.8	2	6	-1	40.2	1.6	473	273	K		hargrave 2022-10-22 15:11:36	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD2
+GD2-1a	GD2-1a_LP-DIR-T	GD2-1		mt	286.9	36.4	2	7	-1	0.0	5.6	840	818	K		hargrave 2022-10-22 15:11:36	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	GD2
+GD2-1a	GD2-1a_LP-DIR-T	GD2-1		lt	352.7	66.0	2	6	0	40.2	1.6	473	273	K		hargrave 2022-10-22 15:11:36	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD2
+GD2-1a	GD2-1a_LP-DIR-T	GD2-1		mt	145.2	31.7	2	7	0	0.0	5.6	840	818	K		hargrave 2022-10-22 15:11:36	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	GD2
+GD2-1a	GD2-1a_LP-DIR-T	GD2-1		lt	352.7	66.0	2	6	100	40.2	1.6	473	273	K		hargrave 2022-10-22 15:11:36	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD2
+GD2-1a	GD2-1a_LP-DIR-T	GD2-1		mt	145.2	31.7	2	7	100	0.0	5.6	840	818	K		hargrave 2022-10-22 15:11:36	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	GD2
+GD2-1a		GD2-1																	This study	LP-NOMAG				Adirondacks	GD2
+GD2-2a		GD2-2																	This study	LP-NOMAG				Adirondacks	GD2
+GD2-2a	GD2-2a_LP-DIR-T	GD2-2		mt	143.8	17.2	1	7	100	0.0	4.6	840	818	K		hargrave 2022-10-22 15:15:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	GD2
+GD2-2a	GD2-2a_LP-DIR-T	GD2-2		mt	143.8	17.2	1	7	0	0.0	4.6	840	818	K		hargrave 2022-10-22 15:15:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	GD2
+GD2-2a	GD2-2a_LP-DIR-T	GD2-2		mt	112.0	62.3	1	7	-1	0.0	4.6	840	818	K		hargrave 2022-10-22 15:15:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	GD2
+GD2-3a	GD2-3a_LP-DIR-T	GD2-3		lt	33.5	59.1	1	3	100	74.1	8.8	398	273	K		hargrave 2022-10-22 15:16:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD2
+GD2-3a		GD2-3																	This study	LP-NOMAG				Adirondacks	GD2
+GD2-3a	GD2-3a_LP-DIR-T	GD2-3		lt	233.5	57.4	1	3	-1	74.1	8.8	398	273	K		hargrave 2022-10-22 15:16:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD2
+GD2-3a	GD2-3a_LP-DIR-T	GD2-3		lt	33.5	59.1	1	3	0	74.1	8.8	398	273	K		hargrave 2022-10-22 15:16:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD2
+GD2-4a	GD2-4a_LP-DIR-T	GD2-4		mt	119.8	-3.0	1	9	-1	0.0	6.1	840	798	K		hargrave 2022-10-22 15:18:25	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	GD2
+GD2-4a	GD2-4a_LP-DIR-T	GD2-4		mt	145.0	29.7	1	9	0	0.0	6.1	840	798	K		hargrave 2022-10-22 15:18:25	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	GD2
+GD2-4a	GD2-4a_LP-DIR-T	GD2-4		mt	145.0	29.7	1	9	100	0.0	6.1	840	798	K		hargrave 2022-10-22 15:18:25	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	GD2
+GD2-4a		GD2-4																	This study	LP-NOMAG				Adirondacks	GD2
+GD2-5a		GD2-5																	This study	LP-NOMAG				Adirondacks	GD2
+GD2-5a	GD2-5a_LP-DIR-T	GD2-5		lt	174.2	-31.1	2	4	-1	66.8	6.5	423	273	K		hargrave 2022-10-22 15:20:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD2
+GD2-5a	GD2-5a_LP-DIR-T	GD2-5		mt	239.3	67.4	2	6	-1	0.0	7.7	837	818	K		hargrave 2022-10-22 15:20:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	GD2
+GD2-5a	GD2-5a_LP-DIR-T	GD2-5		lt	329.0	51.5	2	4	0	66.8	6.5	423	273	K		hargrave 2022-10-22 15:20:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD2
+GD2-5a	GD2-5a_LP-DIR-T	GD2-5		lt	329.0	51.5	2	4	100	66.8	6.5	423	273	K		hargrave 2022-10-22 15:20:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD2
+GD2-5a	GD2-5a_LP-DIR-T	GD2-5		mt	136.7	17.9	2	6	0	0.0	7.7	837	818	K		hargrave 2022-10-22 15:20:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	GD2
+GD2-5a	GD2-5a_LP-DIR-T	GD2-5		mt	136.7	17.9	2	6	100	0.0	7.7	837	818	K		hargrave 2022-10-22 15:20:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	GD2
+GD2-6a		GD2-6																	This study	LP-NOMAG				Adirondacks	GD2
+GD2-6a	GD2-6a_LP-DIR-T	GD2-6		lt	211.9	-19.0	1	6	-1	13.9	5.0	473	273	K		hargrave 2022-10-15 17:36:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD2
+GD2-6a	GD2-6a_LP-DIR-T	GD2-6		lt	326.6	58.8	1	6	0	13.9	5.0	473	273	K		hargrave 2022-10-15 17:36:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD2
+GD2-6a	GD2-6a_LP-DIR-T	GD2-6		lt	326.6	58.8	1	6	100	13.9	5.0	473	273	K		hargrave 2022-10-15 17:36:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD2
+GD2-7a	GD2-7a_LP-DIR-T	GD2-7		lt	166.7	6.2	2	4	-1	30.9	5.9	423	273	K		hargrave 2022-10-15 17:37:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD2
+GD2-7a	GD2-7a_LP-DIR-T	GD2-7		mt	228.2	11.7	2	7	-1	0.0	3.2	834	798	K		hargrave 2022-10-15 17:37:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	GD2
+GD2-7a	GD2-7a_LP-DIR-T	GD2-7		lt	355.6	72.4	2	4	0	30.9	5.9	423	273	K		hargrave 2022-10-15 17:37:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD2
+GD2-7a	GD2-7a_LP-DIR-T	GD2-7		lt	355.6	72.4	2	4	100	30.9	5.9	423	273	K		hargrave 2022-10-15 17:37:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD2
+GD2-7a		GD2-7																	This study	LP-NOMAG				Adirondacks	GD2
+GD2-7a	GD2-7a_LP-DIR-T	GD2-7		mt	134.3	43.1	2	7	100	0.0	3.2	834	798	K		hargrave 2022-10-15 17:37:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	GD2
+GD2-7a	GD2-7a_LP-DIR-T	GD2-7		mt	134.3	43.1	2	7	0	0.0	3.2	834	798	K		hargrave 2022-10-15 17:37:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	GD2
+GD2-8a	GD2-8a_LP-DIR-T	GD2-8		mt	149.9	32.0	2	4	100	0.0	4.9	831	818	K		hargrave 2022-10-15 17:39:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	GD2
+GD2-8a	GD2-8a_LP-DIR-T	GD2-8		lt	343.6	66.7	2	4	100	29.1	10.8	423	273	K		hargrave 2022-10-15 17:39:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	GD2
+GD2-8a	GD2-8a_LP-DIR-T	GD2-8		mt	149.9	32.0	2	4	0	0.0	4.9	831	818	K		hargrave 2022-10-15 17:39:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	GD2
+GD2-8a	GD2-8a_LP-DIR-T	GD2-8		lt	343.6	66.7	2	4	0	29.1	10.8	423	273	K		hargrave 2022-10-15 17:39:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	GD2
+GD2-8a	GD2-8a_LP-DIR-T	GD2-8		mt	182.4	-48.0	2	4	-1	0.0	4.9	831	818	K		hargrave 2022-10-15 17:39:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	GD2
+GD2-8a	GD2-8a_LP-DIR-T	GD2-8		lt	172.8	32.4	2	4	-1	29.1	10.8	423	273	K		hargrave 2022-10-15 17:39:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	GD2
+GD2-8a		GD2-8																	This study	LP-NOMAG				Adirondacks	GD2
+MA1-1a	MA1-1a_LP-DIR-T	MA1-1		ht	34.1	59.9	2	15	0	0.0	1.8	960	883	K		hargrave 2022-09-25 11:32:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-1a	MA1-1a_LP-DIR-T	MA1-1		mt	312.6	-51.3	2	23	0	18.8	2.7	863	673	K		hargrave 2022-09-25 11:32:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-1a	MA1-1a_LP-DIR-T	MA1-1		ht	181.4	25.9	2	15	-1	0.0	1.8	960	883	K		hargrave 2022-09-25 11:32:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA1
+MA1-1a	MA1-1a_LP-DIR-T	MA1-1		mt	61.2	-45.5	2	23	-1	18.8	2.7	863	673	K		hargrave 2022-09-25 11:32:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA1
+MA1-1a	MA1-1a_LP-DIR-T	MA1-1		mt	312.6	-51.3	2	23	100	18.8	2.7	863	673	K		hargrave 2022-09-25 11:32:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-1a	MA1-1a_LP-DIR-T	MA1-1		ht	34.1	59.9	2	15	100	0.0	1.8	960	883	K		hargrave 2022-09-25 11:32:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-1a		MA1-1																	This study	LP-NOMAG				Adirondacks	MA1
+MA1-2a	MA1-2a_LP-DIR-T	MA1-2		ht	70.5	53.1	2	26	100	0.0	2.1	952	843	K		hargrave 2022-09-22 11:50:24	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-2a		MA1-2																	This study	LP-NOMAG				Adirondacks	MA1
+MA1-2a	MA1-2a_LP-DIR-T	MA1-2		mt	69.7	-16.7	2	15	-1	129.0	16.7	723	273	K		hargrave 2022-09-22 11:50:24	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA1
+MA1-2a	MA1-2a_LP-DIR-T	MA1-2		ht	197.5	21.5	2	26	-1	0.0	2.1	952	843	K		hargrave 2022-09-22 11:50:24	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA1
+MA1-2a	MA1-2a_LP-DIR-T	MA1-2		mt	305.4	-25.1	2	15	0	129.0	16.7	723	273	K		hargrave 2022-09-22 11:50:24	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-2a	MA1-2a_LP-DIR-T	MA1-2		ht	70.5	53.1	2	26	0	0.0	2.1	952	843	K		hargrave 2022-09-22 11:50:24	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-2a	MA1-2a_LP-DIR-T	MA1-2		mt	305.4	-25.1	2	15	100	129.0	16.7	723	273	K		hargrave 2022-09-22 11:50:24	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-3a		MA1-3																	This study	LP-NOMAG				Adirondacks	MA1
+MA1-3a	MA1-3a_LP-DIR-T	MA1-3		ht	69.2	52.8	2	24	100	0.0	2.0	952	846	K		hargrave 2022-09-22 11:51:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-3a	MA1-3a_LP-DIR-T	MA1-3		mt	77.7	-16.5	2	12	-1	123.3	12.8	673	373	K		hargrave 2022-09-22 11:51:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA1
+MA1-3a	MA1-3a_LP-DIR-T	MA1-3		ht	200.3	15.7	2	24	-1	0.0	2.0	952	846	K		hargrave 2022-09-22 11:51:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA1
+MA1-3a	MA1-3a_LP-DIR-T	MA1-3		mt	307.7	-20.3	2	12	0	123.3	12.8	673	373	K		hargrave 2022-09-22 11:51:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-3a	MA1-3a_LP-DIR-T	MA1-3		ht	69.2	52.8	2	24	0	0.0	2.0	952	846	K		hargrave 2022-09-22 11:51:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-3a	MA1-3a_LP-DIR-T	MA1-3		mt	307.7	-20.3	2	12	100	123.3	12.8	673	373	K		hargrave 2022-09-22 11:51:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-4a	MA1-4a_LP-DIR-T	MA1-4		ht	187.9	22.2	2	26	-1	0.0	1.5	952	843	K		hargrave 2022-09-22 11:52:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA1
+MA1-4a	MA1-4a_LP-DIR-T	MA1-4		mt	64.1	-28.5	2	12	-1	123.4	14.9	673	373	K		hargrave 2022-09-22 11:52:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA1
+MA1-4a		MA1-4																	This study	LP-NOMAG				Adirondacks	MA1
+MA1-4a	MA1-4a_LP-DIR-T	MA1-4		ht	61.1	49.8	2	26	0	0.0	1.5	952	843	K		hargrave 2022-09-22 11:52:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-4a	MA1-4a_LP-DIR-T	MA1-4		ht	61.1	49.8	2	26	100	0.0	1.5	952	843	K		hargrave 2022-09-22 11:52:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-4a	MA1-4a_LP-DIR-T	MA1-4		mt	311.4	-37.0	2	12	0	123.4	14.9	673	373	K		hargrave 2022-09-22 11:52:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-4a	MA1-4a_LP-DIR-T	MA1-4		mt	311.4	-37.0	2	12	100	123.4	14.9	673	373	K		hargrave 2022-09-22 11:52:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-5a	MA1-5a_LP-DIR-T	MA1-5		ht	197.2	18.0	2	26	-1	0.0	2.2	952	843	K		hargrave 2022-09-22 11:53:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA1
+MA1-5a		MA1-5																	This study	LP-NOMAG				Adirondacks	MA1
+MA1-5a	MA1-5a_LP-DIR-T	MA1-5		mt	61.1	-27.1	2	12	-1	114.9	2.9	673	373	K		hargrave 2022-09-22 11:53:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA1
+MA1-5a	MA1-5a_LP-DIR-T	MA1-5		ht	72.6	49.8	2	26	0	0.0	2.2	952	843	K		hargrave 2022-09-22 11:53:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-5a	MA1-5a_LP-DIR-T	MA1-5		mt	309.2	-38.2	2	12	0	114.9	2.9	673	373	K		hargrave 2022-09-22 11:53:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-5a	MA1-5a_LP-DIR-T	MA1-5		ht	72.6	49.8	2	26	100	0.0	2.2	952	843	K		hargrave 2022-09-22 11:53:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-5a	MA1-5a_LP-DIR-T	MA1-5		mt	309.2	-38.2	2	12	100	114.9	2.9	673	373	K		hargrave 2022-09-22 11:53:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-6a		MA1-6																	This study	LP-NOMAG				Adirondacks	MA1
+MA1-6a	MA1-6a_LP-DIR-T	MA1-6		mt	316.9	-37.9	2	10	100	137.6	22.7	623	373	K		hargrave 2022-09-22 11:55:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-6a	MA1-6a_LP-DIR-T	MA1-6		ht	86.9	40.6	2	26	100	0.0	2.7	952	843	K		hargrave 2022-09-22 11:55:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-6a	MA1-6a_LP-DIR-T	MA1-6		ht	86.9	40.6	2	26	0	0.0	2.7	952	843	K		hargrave 2022-09-22 11:55:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-6a	MA1-6a_LP-DIR-T	MA1-6		mt	59.8	-25.2	2	10	-1	137.6	22.7	623	373	K		hargrave 2022-09-22 11:55:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA1
+MA1-6a	MA1-6a_LP-DIR-T	MA1-6		ht	204.1	7.6	2	26	-1	0.0	2.7	952	843	K		hargrave 2022-09-22 11:55:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA1
+MA1-6a	MA1-6a_LP-DIR-T	MA1-6		mt	316.9	-37.9	2	10	0	137.6	22.7	623	373	K		hargrave 2022-09-22 11:55:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-7a	MA1-7a_LP-DIR-T	MA1-7		ht	193.7	4.0	2	26	-1	0.0	2.0	952	843	K		hargrave 2022-09-22 11:56:10	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA1
+MA1-7a	MA1-7a_LP-DIR-T	MA1-7		mt	61.7	-31.6	2	12	-1	117.7	18.1	673	373	K		hargrave 2022-09-22 11:56:10	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA1
+MA1-7a	MA1-7a_LP-DIR-T	MA1-7		ht	70.4	48.2	2	26	0	0.0	2.0	952	843	K		hargrave 2022-09-22 11:56:10	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-7a	MA1-7a_LP-DIR-T	MA1-7		mt	327.0	-40.9	2	12	0	117.7	18.1	673	373	K		hargrave 2022-09-22 11:56:10	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-7a	MA1-7a_LP-DIR-T	MA1-7		ht	70.4	48.2	2	26	100	0.0	2.0	952	843	K		hargrave 2022-09-22 11:56:10	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-7a	MA1-7a_LP-DIR-T	MA1-7		mt	327.0	-40.9	2	12	100	117.7	18.1	673	373	K		hargrave 2022-09-22 11:56:10	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-7a		MA1-7																	This study	LP-NOMAG				Adirondacks	MA1
+MA1-8a	MA1-8a_LP-DIR-T	MA1-8		mt	49.3	-20.9	2	10	-1	118.3	2.4	623	373	K		hargrave 2022-09-25 11:33:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA1
+MA1-8a	MA1-8a_LP-DIR-T	MA1-8		ht	70.1	50.6	2	19	100	0.0	2.9	960	867	K		hargrave 2022-09-25 11:33:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-8a	MA1-8a_LP-DIR-T	MA1-8		mt	307.3	-41.4	2	10	100	118.3	2.4	623	373	K		hargrave 2022-09-25 11:33:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-8a	MA1-8a_LP-DIR-T	MA1-8		ht	70.1	50.6	2	19	0	0.0	2.9	960	867	K		hargrave 2022-09-25 11:33:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-8a	MA1-8a_LP-DIR-T	MA1-8		ht	188.6	12.2	2	19	-1	0.0	2.9	960	867	K		hargrave 2022-09-25 11:33:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA1
+MA1-8a	MA1-8a_LP-DIR-T	MA1-8		mt	307.3	-41.4	2	10	0	118.3	2.4	623	373	K		hargrave 2022-09-25 11:33:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-8a		MA1-8																	This study	LP-NOMAG				Adirondacks	MA1
+MA1-9a		MA1-9																	This study	LP-NOMAG				Adirondacks	MA1
+MA1-9a	MA1-9a_LP-DIR-T	MA1-9		ht	213.2	0.8	2	23	-1	0.0	2.4	960	855	K		hargrave 2022-09-25 11:35:25	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA1
+MA1-9a	MA1-9a_LP-DIR-T	MA1-9		mt	65.0	-24.4	2	9	-1	117.3	6.9	598	373	K		hargrave 2022-09-25 11:35:25	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA1
+MA1-9a	MA1-9a_LP-DIR-T	MA1-9		ht	110.5	37.7	2	23	0	0.0	2.4	960	855	K		hargrave 2022-09-25 11:35:25	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-9a	MA1-9a_LP-DIR-T	MA1-9		mt	338.7	-34.3	2	9	0	117.3	6.9	598	373	K		hargrave 2022-09-25 11:35:25	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA1
+MA1-9a	MA1-9a_LP-DIR-T	MA1-9		ht	110.5	37.7	2	23	100	0.0	2.4	960	855	K		hargrave 2022-09-25 11:35:25	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA1
+MA1-9a	MA1-9a_LP-DIR-T	MA1-9		mt	338.7	-34.3	2	9	100	117.3	6.9	598	373	K		hargrave 2022-09-25 11:35:25	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA1
+MA10-1a		MA10-1																	This study	LP-NOMAG				Adirondacks	MA10
+MA10-1a	MA10-1a_LP-DIR-T	MA10-1		mt	334.6	45.5	1	24	-1	8.4	6.0	905	828	K		hargrave 2022-09-13 16:14:32	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA10-1a	MA10-1a_LP-DIR-T	MA10-1		mt	94.9	22.3	1	24	0	8.4	6.0	905	828	K		hargrave 2022-09-13 16:14:32	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-1a	MA10-1a_LP-DIR-T	MA10-1		mt	94.9	22.3	1	24	100	8.4	6.0	905	828	K		hargrave 2022-09-13 16:14:32	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-2a	MA10-2a_LP-DIR-T	MA10-2		ht	68.4	74.0	3	13	100	6.9	4.9	905	852	K		hargrave 2022-09-13 16:18:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-2a	MA10-2a_LP-DIR-T	MA10-2		mt	157.2	-59.3	3	7	100	134.4	6.1	849	836	K		hargrave 2022-09-13 16:18:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-2a	MA10-2a_LP-DIR-T	MA10-2		mlt	21.9	55.4	3	9	100	29.0	6.1	833	773	K		hargrave 2022-09-13 16:18:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-2a	MA10-2a_LP-DIR-T	MA10-2		mt	157.2	-59.3	3	7	0	134.4	6.1	849	836	K		hargrave 2022-09-13 16:18:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-2a	MA10-2a_LP-DIR-T	MA10-2		mlt	21.9	55.4	3	9	0	29.0	6.1	833	773	K		hargrave 2022-09-13 16:18:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-2a	MA10-2a_LP-DIR-T	MA10-2		ht	68.4	74.0	3	13	0	6.9	4.9	905	852	K		hargrave 2022-09-13 16:18:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-2a	MA10-2a_LP-DIR-T	MA10-2		mlt	230.3	44.5	3	9	-1	29.0	6.1	833	773	K		hargrave 2022-09-13 16:18:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA10-2a		MA10-2																	This study	LP-NOMAG				Adirondacks	MA10
+MA10-2a	MA10-2a_LP-DIR-T	MA10-2		mt	29.9	-27.1	3	7	-1	134.4	6.1	849	836	K		hargrave 2022-09-13 16:18:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA10-2a	MA10-2a_LP-DIR-T	MA10-2		ht	195.4	60.2	3	13	-1	6.9	4.9	905	852	K		hargrave 2022-09-13 16:18:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA10-3a	MA10-3a_LP-DIR-T	MA10-3		mt	103.7	26.2	1	26	0	1.8	4.9	905	813	K		hargrave 2022-09-13 16:21:09	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-3a	MA10-3a_LP-DIR-T	MA10-3		mt	278.0	36.2	1	26	-1	1.8	4.9	905	813	K		hargrave 2022-09-13 16:21:09	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA10-3a	MA10-3a_LP-DIR-T	MA10-3		mt	103.7	26.2	1	26	100	1.8	4.9	905	813	K		hargrave 2022-09-13 16:21:09	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-3a		MA10-3																	This study	LP-NOMAG				Adirondacks	MA10
+MA10-4a		MA10-4																	This study	LP-NOMAG				Adirondacks	MA10
+MA10-4a	MA10-4a_LP-DIR-T	MA10-4		mt	105.1	27.2	1	26	0	1.3	4.3	905	813	K		hargrave 2022-09-13 16:22:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-4a	MA10-4a_LP-DIR-T	MA10-4		mt	105.1	27.2	1	26	100	1.3	4.3	905	813	K		hargrave 2022-09-13 16:22:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-4a	MA10-4a_LP-DIR-T	MA10-4		mt	301.0	46.9	1	26	-1	1.3	4.3	905	813	K		hargrave 2022-09-13 16:22:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA10-5a		MA10-5																	This study	LP-NOMAG				Adirondacks	MA10
+MA10-5a	MA10-5a_LP-DIR-T	MA10-5		mt	306.6	58.2	1	25	-1	0.5	11.3	905	823	K		hargrave 2022-09-13 16:23:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA10-5a	MA10-5a_LP-DIR-T	MA10-5		mt	107.2	30.2	1	25	0	0.5	11.3	905	823	K		hargrave 2022-09-13 16:23:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-5a	MA10-5a_LP-DIR-T	MA10-5		mt	107.2	30.2	1	25	100	0.5	11.3	905	823	K		hargrave 2022-09-13 16:23:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-6a	MA10-6a_LP-DIR-T	MA10-6		mt	111.5	35.2	1	25	100	1.1	6.7	905	823	K		hargrave 2022-09-13 16:25:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-6a	MA10-6a_LP-DIR-T	MA10-6		mt	314.5	72.1	1	25	-1	1.1	6.7	905	823	K		hargrave 2022-09-13 16:25:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA10-6a	MA10-6a_LP-DIR-T	MA10-6		mt	111.5	35.2	1	25	0	1.1	6.7	905	823	K		hargrave 2022-09-13 16:25:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-6a		MA10-6																	This study	LP-NOMAG				Adirondacks	MA10
+MA10-7a	MA10-7a_LP-DIR-T	MA10-7		mt	289.6	-72.1	4	7	0	90.7	6.0	846	833	K		hargrave 2022-09-13 16:26:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-7a	MA10-7a_LP-DIR-T	MA10-7		mlt	103.6	49.9	4	9	0	78.4	5.7	833	773	K		hargrave 2022-09-13 16:26:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-7a	MA10-7a_LP-DIR-T	MA10-7		ht	93.8	26.1	4	9	0	8.2	10.3	905	864	K		hargrave 2022-09-13 16:26:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-7a	MA10-7a_LP-DIR-T	MA10-7		ht	316.8	46.1	4	9	-1	8.2	10.3	905	864	K		hargrave 2022-09-13 16:26:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA10-7a	MA10-7a_LP-DIR-T	MA10-7		mt	32.4	-80.8	4	7	-1	90.7	6.0	846	833	K		hargrave 2022-09-13 16:26:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA10-7a	MA10-7a_LP-DIR-T	MA10-7		mlt	312.0	71.0	4	9	-1	78.4	5.7	833	773	K		hargrave 2022-09-13 16:26:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA10-7a	MA10-7a_LP-DIR-T	MA10-7		lt	203.2	43.4	4	10	-1	90.4	24.1	573	273	K		hargrave 2022-09-13 16:26:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA10-7a	MA10-7a_LP-DIR-T	MA10-7		lt	348.0	64.9	4	10	0	90.4	24.1	573	273	K		hargrave 2022-09-13 16:26:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-7a	MA10-7a_LP-DIR-T	MA10-7		ht	93.8	26.1	4	9	100	8.2	10.3	905	864	K		hargrave 2022-09-13 16:26:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-7a	MA10-7a_LP-DIR-T	MA10-7		mt	289.6	-72.1	4	7	100	90.7	6.0	846	833	K		hargrave 2022-09-13 16:26:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-7a		MA10-7																	This study	LP-NOMAG				Adirondacks	MA10
+MA10-7a	MA10-7a_LP-DIR-T	MA10-7		mlt	103.6	49.9	4	9	100	78.4	5.7	833	773	K		hargrave 2022-09-13 16:26:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-7a	MA10-7a_LP-DIR-T	MA10-7		lt	348.0	64.9	4	10	100	90.4	24.1	573	273	K		hargrave 2022-09-13 16:26:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-8a	MA10-8a_LP-DIR-T	MA10-8		ht	289.3	32.8	3	9	-1	6.6	7.5	905	864	K		hargrave 2022-09-13 16:28:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA10-8a	MA10-8a_LP-DIR-T	MA10-8		mlt	254.2	61.6	3	3	-1	147.2	3.9	828	813	K		hargrave 2022-09-13 16:28:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA10-8a	MA10-8a_LP-DIR-T	MA10-8		mt	276.7	-67.5	3	6	0	55.7	2.9	856	842	K		hargrave 2022-09-13 16:28:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-8a	MA10-8a_LP-DIR-T	MA10-8		ht	100.1	19.3	3	9	0	6.6	7.5	905	864	K		hargrave 2022-09-13 16:28:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-8a	MA10-8a_LP-DIR-T	MA10-8		mlt	102.8	55.7	3	3	0	147.2	3.9	828	813	K		hargrave 2022-09-13 16:28:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA10
+MA10-8a	MA10-8a_LP-DIR-T	MA10-8		mt	276.7	-67.5	3	6	100	55.7	2.9	856	842	K		hargrave 2022-09-13 16:28:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-8a	MA10-8a_LP-DIR-T	MA10-8		ht	100.1	19.3	3	9	100	6.6	7.5	905	864	K		hargrave 2022-09-13 16:28:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-8a	MA10-8a_LP-DIR-T	MA10-8		mlt	102.8	55.7	3	3	100	147.2	3.9	828	813	K		hargrave 2022-09-13 16:28:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA10
+MA10-8a		MA10-8																	This study	LP-NOMAG				Adirondacks	MA10
+MA10-8a	MA10-8a_LP-DIR-T	MA10-8		mt	48.2	-63.4	3	6	-1	55.7	2.9	856	842	K		hargrave 2022-09-13 16:28:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA10
+MA11-1a	MA11-1a_LP-DIR-T	MA11-1		mt	60.2	73.7	1	28	-1	1.2	3.8	869	648	K		hargrave 2022-08-23 13:07:41	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA11
+MA11-1a	MA11-1a_LP-DIR-T	MA11-1		mt	243.5	67.1	1	28	0	1.2	3.8	869	648	K		hargrave 2022-08-23 13:07:41	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-1a	MA11-1a_LP-DIR-T	MA11-1		mt	243.5	67.1	1	28	100	1.2	3.8	869	648	K		hargrave 2022-08-23 13:07:41	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-1a		MA11-1																	This study	LP-NOMAG				Adirondacks	MA11
+MA11-2a		MA11-2																	This study	LP-NOMAG				Adirondacks	MA11
+MA11-2a	MA11-2a_LP-DIR-T	MA11-2		mt	240.4	69.7	1	18	0	1.5	3.5	869	823	K		hargrave 2022-08-23 13:09:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-2a	MA11-2a_LP-DIR-T	MA11-2		mt	240.4	69.7	1	18	100	1.5	3.5	869	823	K		hargrave 2022-08-23 13:09:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-2a	MA11-2a_LP-DIR-T	MA11-2		mt	49.8	74.9	1	18	-1	1.5	3.5	869	823	K		hargrave 2022-08-23 13:09:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA11
+MA11-3a	MA11-3a_LP-DIR-T	MA11-3		mt	258.8	47.1	2	4	100	26.3	4.4	849	842	K		hargrave 2022-08-23 13:10:43	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-3a	MA11-3a_LP-DIR-T	MA11-3		ht	305.7	-39.6	2	3	100	56.0	7.8	856	849	K		hargrave 2022-08-23 13:10:43	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-3a	MA11-3a_LP-DIR-T	MA11-3		mt	258.8	47.1	2	4	0	26.3	4.4	849	842	K		hargrave 2022-08-23 13:10:43	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-3a	MA11-3a_LP-DIR-T	MA11-3		ht	305.7	-39.6	2	3	0	56.0	7.8	856	849	K		hargrave 2022-08-23 13:10:43	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-3a	MA11-3a_LP-DIR-T	MA11-3		mt	58.6	49.9	2	4	-1	26.3	4.4	849	842	K		hargrave 2022-08-23 13:10:43	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA11
+MA11-3a		MA11-3																	This study	LP-NOMAG				Adirondacks	MA11
+MA11-3a	MA11-3a_LP-DIR-T	MA11-3		ht	96.7	-40.3	2	3	-1	56.0	7.8	856	849	K		hargrave 2022-08-23 13:10:43	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA11
+MA11-4a	MA11-4a_LP-DIR-T	MA11-4		ht	104.0	-66.3	2	9	-1	1.9	4.7	869	845	K		hargrave 2022-08-23 13:12:12	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA11
+MA11-4a	MA11-4a_LP-DIR-T	MA11-4		ht	309.3	-64.2	2	9	0	1.9	4.7	869	845	K		hargrave 2022-08-23 13:12:12	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-4a	MA11-4a_LP-DIR-T	MA11-4		mt	274.4	60.3	2	6	-1	168.8	6.9	836	823	K		hargrave 2022-08-23 13:12:12	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA11
+MA11-4a	MA11-4a_LP-DIR-T	MA11-4		mt	117.7	59.3	2	6	0	168.8	6.9	836	823	K		hargrave 2022-08-23 13:12:12	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-4a	MA11-4a_LP-DIR-T	MA11-4		ht	309.3	-64.2	2	9	100	1.9	4.7	869	845	K		hargrave 2022-08-23 13:12:12	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-4a	MA11-4a_LP-DIR-T	MA11-4		mt	117.7	59.3	2	6	100	168.8	6.9	836	823	K		hargrave 2022-08-23 13:12:12	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-4a		MA11-4																	This study	LP-NOMAG				Adirondacks	MA11
+MA11-5a	MA11-5a_LP-DIR-T	MA11-5		mt	138.0	79.1	2	10	0	6.6	1.5	842	813	K		hargrave 2022-08-23 13:13:39	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-5a		MA11-5																	This study	LP-NOMAG				Adirondacks	MA11
+MA11-5a	MA11-5a_LP-DIR-T	MA11-5		mt	138.0	79.1	2	10	100	6.6	1.5	842	813	K		hargrave 2022-08-23 13:13:39	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-5a	MA11-5a_LP-DIR-T	MA11-5		ht	313.6	-49.5	2	9	0	7.4	18.0	869	845	K		hargrave 2022-08-23 13:13:39	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-5a	MA11-5a_LP-DIR-T	MA11-5		ht	93.9	-50.5	2	9	-1	7.4	18.0	869	845	K		hargrave 2022-08-23 13:13:39	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA11
+MA11-5a	MA11-5a_LP-DIR-T	MA11-5		ht	313.6	-49.5	2	9	100	7.4	18.0	869	845	K		hargrave 2022-08-23 13:13:39	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-5a	MA11-5a_LP-DIR-T	MA11-5		mt	249.9	78.9	2	10	-1	6.6	1.5	842	813	K		hargrave 2022-08-23 13:13:39	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA11
+MA11-6a	MA11-6a_LP-DIR-T	MA11-6		ht	295.6	-70.7	1	13	0	0.0	2.2	869	836	K		hargrave 2022-08-23 13:15:09	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-6a	MA11-6a_LP-DIR-T	MA11-6		ht	295.6	-70.7	1	13	100	0.0	2.2	869	836	K		hargrave 2022-08-23 13:15:09	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-6a		MA11-6																	This study	LP-NOMAG				Adirondacks	MA11
+MA11-6a	MA11-6a_LP-DIR-T	MA11-6		ht	60.7	-67.7	1	13	-1	0.0	2.2	869	836	K		hargrave 2022-08-23 13:15:09	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA11
+MA11-7a	MA11-7a_LP-DIR-T	MA11-7		ht	91.2	-72.8	2	12	-1	0.0	3.2	869	838	K		hargrave 2022-08-23 13:16:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA11
+MA11-7a	MA11-7a_LP-DIR-T	MA11-7		mt	220.1	74.5	2	28	-1	160.1	9.6	836	273	K		hargrave 2022-08-23 13:16:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA11
+MA11-7a	MA11-7a_LP-DIR-T	MA11-7		ht	301.0	-70.0	2	12	0	0.0	3.2	869	838	K		hargrave 2022-08-23 13:16:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-7a	MA11-7a_LP-DIR-T	MA11-7		mt	79.5	79.9	2	28	0	160.1	9.6	836	273	K		hargrave 2022-08-23 13:16:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-7a		MA11-7																	This study	LP-NOMAG				Adirondacks	MA11
+MA11-7a	MA11-7a_LP-DIR-T	MA11-7		ht	301.0	-70.0	2	12	100	0.0	3.2	869	838	K		hargrave 2022-08-23 13:16:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-7a	MA11-7a_LP-DIR-T	MA11-7		mt	79.5	79.9	2	28	100	160.1	9.6	836	273	K		hargrave 2022-08-23 13:16:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-8a	MA11-8a_LP-DIR-T	MA11-8		mt	191.3	27.6	2	23	-1	111.9	5.3	823	273	K		hargrave 2022-08-23 13:20:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA11
+MA11-8a	MA11-8a_LP-DIR-T	MA11-8		mt	14.8	43.3	2	23	0	111.9	5.3	823	273	K		hargrave 2022-08-23 13:20:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-8a	MA11-8a_LP-DIR-T	MA11-8		ht	306.6	-62.5	2	11	0	0.0	4.8	869	840	K		hargrave 2022-08-23 13:20:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-8a	MA11-8a_LP-DIR-T	MA11-8		mt	14.8	43.3	2	23	100	111.9	5.3	823	273	K		hargrave 2022-08-23 13:20:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-8a	MA11-8a_LP-DIR-T	MA11-8		ht	306.6	-62.5	2	11	100	0.0	4.8	869	840	K		hargrave 2022-08-23 13:20:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-8a	MA11-8a_LP-DIR-T	MA11-8		ht	92.1	-67.9	2	11	-1	0.0	4.8	869	840	K		hargrave 2022-08-23 13:20:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA11
+MA11-8a		MA11-8																	This study	LP-NOMAG				Adirondacks	MA11
+MA11-9a		MA11-9																	This study	LP-NOMAG				Adirondacks	MA11
+MA11-9a	MA11-9a_LP-DIR-T	MA11-9		ht	301.6	-70.2	2	9	100	0.0	2.3	856	836	K		hargrave 2022-08-23 13:22:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-9a	MA11-9a_LP-DIR-T	MA11-9		ht	301.6	-70.2	2	9	0	0.0	2.3	856	836	K		hargrave 2022-08-23 13:22:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-9a	MA11-9a_LP-DIR-T	MA11-9		mt	127.4	69.2	2	6	0	171.6	4.6	833	813	K		hargrave 2022-08-23 13:22:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA11
+MA11-9a	MA11-9a_LP-DIR-T	MA11-9		ht	85.1	-72.4	2	9	-1	0.0	2.3	856	836	K		hargrave 2022-08-23 13:22:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA11
+MA11-9a	MA11-9a_LP-DIR-T	MA11-9		mt	127.4	69.2	2	6	100	171.6	4.6	833	813	K		hargrave 2022-08-23 13:22:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA11
+MA11-9a	MA11-9a_LP-DIR-T	MA11-9		mt	272.3	72.7	2	6	-1	171.6	4.6	833	813	K		hargrave 2022-08-23 13:22:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA11
+MA12-1a		MA12-1																	This study	LP-NOMAG				Adirondacks	MA12
+MA12-2a		MA12-2																	This study	LP-NOMAG				Adirondacks	MA12
+MA12-3a		MA12-3																	This study	LP-NOMAG				Adirondacks	MA12
+MA12-4a		MA12-4																	This study	LP-NOMAG				Adirondacks	MA12
+MA12-4a	MA12-4a_LP-DIR-T	MA12-4		mt	312.7	-52.6	1	24	-1	4.0	3.7	905	828	K		hargrave 2022-09-13 16:29:33	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA12
+MA12-4a	MA12-4a_LP-DIR-T	MA12-4		mt	289.6	-63.4	1	24	0	4.0	3.7	905	828	K		hargrave 2022-09-13 16:29:33	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA12
+MA12-4a	MA12-4a_LP-DIR-T	MA12-4		mt	289.6	-63.4	1	24	100	4.0	3.7	905	828	K		hargrave 2022-09-13 16:29:33	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA12
+MA12-5a		MA12-5																	This study	LP-NOMAG				Adirondacks	MA12
+MA12-6a	MA12-6a_LP-DIR-T	MA12-6		mt	123.8	48.8	1	6	100	20.5	7.1	830	798	K		hargrave 2022-07-31 13:50:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA12
+MA12-6a		MA12-6																	This study	LP-NOMAG				Adirondacks	MA12
+MA12-6a	MA12-6a_LP-DIR-T	MA12-6		mt	68.5	61.8	1	6	-1	20.5	7.1	830	798	K		hargrave 2022-07-31 13:50:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA12
+MA12-6a	MA12-6a_LP-DIR-T	MA12-6		mt	123.8	48.8	1	6	0	20.5	7.1	830	798	K		hargrave 2022-07-31 13:50:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA12
+MA12-7a		MA12-7																	This study	LP-NOMAG				Adirondacks	MA12
+MA12-8a	MA12-8a_LP-DIR-T	MA12-8		mt	114.9	13.5	2	6	0	4.0	3.3	830	783	K		hargrave 2022-07-31 13:52:01	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA12
+MA12-8a	MA12-8a_LP-DIR-T	MA12-8		lt	31.2	43.1	2	3	0	31.5	9.3	398	273	K		hargrave 2022-07-31 13:52:01	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA12
+MA12-8a	MA12-8a_LP-DIR-T	MA12-8		mt	114.9	13.5	2	6	100	4.0	3.3	830	783	K		hargrave 2022-07-31 13:52:01	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA12
+MA12-8a	MA12-8a_LP-DIR-T	MA12-8		lt	31.2	43.1	2	3	100	31.5	9.3	398	273	K		hargrave 2022-07-31 13:52:01	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA12
+MA12-8a	MA12-8a_LP-DIR-T	MA12-8		mt	56.0	32.7	2	6	-1	4.0	3.3	830	783	K		hargrave 2022-07-31 13:52:01	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA12
+MA12-8a	MA12-8a_LP-DIR-T	MA12-8		lt	289.5	61.6	2	3	-1	31.5	9.3	398	273	K		hargrave 2022-07-31 13:52:01	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA12
+MA12-8a		MA12-8																	This study	LP-NOMAG				Adirondacks	MA12
+MA13-1a		MA13-1																	This study	LP-NOMAG				Adirondacks	MA13
+MA13-1a	MA13-1a_LP-DIR-T	MA13-1		lt	264.4	60.9	2	14	-1	123.3	7.3	673	273	K		hargrave 2022-10-26 11:51:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA13
+MA13-1a	MA13-1a_LP-DIR-T	MA13-1		mt	333.6	-61.5	2	9	-1	0.0	0.7	840	798	K		hargrave 2022-10-26 11:51:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA13
+MA13-1a	MA13-1a_LP-DIR-T	MA13-1		lt	24.7	47.3	2	14	0	123.3	7.3	673	273	K		hargrave 2022-10-26 11:51:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA13
+MA13-1a	MA13-1a_LP-DIR-T	MA13-1		mt	301.5	-74.2	2	9	0	0.0	0.7	840	798	K		hargrave 2022-10-26 11:51:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA13
+MA13-1a	MA13-1a_LP-DIR-T	MA13-1		lt	24.7	47.3	2	14	100	123.3	7.3	673	273	K		hargrave 2022-10-26 11:51:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA13
+MA13-1a	MA13-1a_LP-DIR-T	MA13-1		mt	301.5	-74.2	2	9	100	0.0	0.7	840	798	K		hargrave 2022-10-26 11:51:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA13
+MA13-2a	MA13-2a_LP-DIR-T	MA13-2		mt	343.5	-77.6	2	7	100	0.0	0.9	840	818	K		hargrave 2022-10-26 11:53:30	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA13
+MA13-2a	MA13-2a_LP-DIR-T	MA13-2		lt	29.9	41.0	2	16	100	110.5	7.5	723	273	K		hargrave 2022-10-26 11:53:30	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA13
+MA13-2a	MA13-2a_LP-DIR-T	MA13-2		mt	343.5	-77.6	2	7	0	0.0	0.9	840	818	K		hargrave 2022-10-26 11:53:30	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA13
+MA13-2a	MA13-2a_LP-DIR-T	MA13-2		lt	29.9	41.0	2	16	0	110.5	7.5	723	273	K		hargrave 2022-10-26 11:53:30	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA13
+MA13-2a	MA13-2a_LP-DIR-T	MA13-2		mt	343.4	-41.6	2	7	-1	0.0	0.9	840	818	K		hargrave 2022-10-26 11:53:30	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA13
+MA13-2a		MA13-2																	This study	LP-NOMAG				Adirondacks	MA13
+MA13-2a	MA13-2a_LP-DIR-T	MA13-2		lt	262.7	62.1	2	16	-1	110.5	7.5	723	273	K		hargrave 2022-10-26 11:53:30	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA13
+MA13-3a	MA13-3a_LP-DIR-T	MA13-3		mt	353.9	-83.0	2	7	100	0.0	1.9	840	818	K		hargrave 2022-10-26 11:55:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA13
+MA13-3a		MA13-3																	This study	LP-NOMAG				Adirondacks	MA13
+MA13-3a	MA13-3a_LP-DIR-T	MA13-3		lt	253.9	52.6	2	4	-1	89.9	18.6	423	273	K		hargrave 2022-10-26 11:55:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA13
+MA13-3a	MA13-3a_LP-DIR-T	MA13-3		mt	353.0	-37.5	2	7	-1	0.0	1.9	840	818	K		hargrave 2022-10-26 11:55:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA13
+MA13-3a	MA13-3a_LP-DIR-T	MA13-3		lt	355.8	41.0	2	4	0	89.9	18.6	423	273	K		hargrave 2022-10-26 11:55:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA13
+MA13-3a	MA13-3a_LP-DIR-T	MA13-3		mt	353.9	-83.0	2	7	0	0.0	1.9	840	818	K		hargrave 2022-10-26 11:55:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA13
+MA13-3a	MA13-3a_LP-DIR-T	MA13-3		lt	355.8	41.0	2	4	100	89.9	18.6	423	273	K		hargrave 2022-10-26 11:55:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA13
+MA13-4a	MA13-4a_LP-DIR-T	MA13-4		mt	344.8	-78.1	2	3	0	0.0	1.2	840	834	K		hargrave 2022-10-26 11:56:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA13
+MA13-4a	MA13-4a_LP-DIR-T	MA13-4		lt	22.7	38.8	2	14	100	95.9	4.7	673	273	K		hargrave 2022-10-26 11:56:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA13
+MA13-4a	MA13-4a_LP-DIR-T	MA13-4		lt	22.7	38.8	2	14	0	95.9	4.7	673	273	K		hargrave 2022-10-26 11:56:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA13
+MA13-4a	MA13-4a_LP-DIR-T	MA13-4		mt	344.8	-78.1	2	3	100	0.0	1.2	840	834	K		hargrave 2022-10-26 11:56:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA13
+MA13-4a	MA13-4a_LP-DIR-T	MA13-4		lt	284.6	69.8	2	14	-1	95.9	4.7	673	273	K		hargrave 2022-10-26 11:56:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA13
+MA13-4a		MA13-4																	This study	LP-NOMAG				Adirondacks	MA13
+MA13-4a	MA13-4a_LP-DIR-T	MA13-4		mt	346.0	-40.8	2	3	-1	0.0	1.2	840	834	K		hargrave 2022-10-26 11:56:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA13
+MA13-5a		MA13-5																	This study	LP-NOMAG				Adirondacks	MA13
+MA13-5a	MA13-5a_LP-DIR-T	MA13-5		lt	288.8	70.2	1	8	-1	6.5	2.9	523	273	K		hargrave 2022-10-15 16:29:21	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA13
+MA13-5a	MA13-5a_LP-DIR-T	MA13-5		lt	22.1	47.8	1	8	0	6.5	2.9	523	273	K		hargrave 2022-10-15 16:29:21	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA13
+MA13-5a	MA13-5a_LP-DIR-T	MA13-5		lt	22.1	47.8	1	8	100	6.5	2.9	523	273	K		hargrave 2022-10-15 16:29:21	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA13
+MA13-6a	MA13-6a_LP-DIR-T	MA13-6		mt	197.4	51.1	1	11	-1	0.0	3.6	723	473	K		hargrave 2022-10-05 12:36:11	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA13
+MA13-6a	MA13-6a_LP-DIR-T	MA13-6		mt	313.9	78.9	1	11	100	0.0	3.6	723	473	K		hargrave 2022-10-05 12:36:11	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA13
+MA13-6a		MA13-6																	This study	LP-NOMAG				Adirondacks	MA13
+MA13-6a	MA13-6a_LP-DIR-T	MA13-6		mt	313.9	78.9	1	11	0	0.0	3.6	723	473	K		hargrave 2022-10-05 12:36:11	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA13
+MA13-7a	MA13-7a_LP-DIR-T	MA13-7		mt	210.6	43.8	1	12	-1	0.0	5.9	743	473	K		hargrave 2022-10-05 18:23:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA13
+MA13-7a	MA13-7a_LP-DIR-T	MA13-7		mt	316.6	64.0	1	12	0	0.0	5.9	743	473	K		hargrave 2022-10-05 18:23:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA13
+MA13-7a	MA13-7a_LP-DIR-T	MA13-7		mt	316.6	64.0	1	12	100	0.0	5.9	743	473	K		hargrave 2022-10-05 18:23:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA13
+MA13-7a		MA13-7																	This study	LP-NOMAG				Adirondacks	MA13
+MA13-8a		MA13-8																	This study	LP-NOMAG				Adirondacks	MA13
+MA13-8a	MA13-8a_LP-DIR-T	MA13-8		mt	346.5	50.7	2	11	100	0.0	11.8	723	473	K		hargrave 2022-10-05 12:39:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA13
+MA13-8a	MA13-8a_LP-DIR-T	MA13-8		lt	353.9	58.5	2	3	100	6.3	5.3	398	273	K		hargrave 2022-10-05 12:39:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA13
+MA13-8a	MA13-8a_LP-DIR-T	MA13-8		mt	346.5	50.7	2	11	0	0.0	11.8	723	473	K		hargrave 2022-10-05 12:39:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA13
+MA13-8a	MA13-8a_LP-DIR-T	MA13-8		lt	353.9	58.5	2	3	0	6.3	5.3	398	273	K		hargrave 2022-10-05 12:39:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA13
+MA13-8a	MA13-8a_LP-DIR-T	MA13-8		mt	242.8	45.4	2	11	-1	0.0	11.8	723	473	K		hargrave 2022-10-05 12:39:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA13
+MA13-8a	MA13-8a_LP-DIR-T	MA13-8		lt	237.2	53.5	2	3	-1	6.3	5.3	398	273	K		hargrave 2022-10-05 12:39:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA13
+MA14-1a	MA14-1a_LP-DIR-T	MA14-1		lt	248.5	72.1	1	3	-1	62.8	2.7	398	273	K		hargrave 2022-10-26 11:57:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA14
+MA14-1a	MA14-1a_LP-DIR-T	MA14-1		lt	324.2	68.9	1	3	0	62.8	2.7	398	273	K		hargrave 2022-10-26 11:57:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-1a	MA14-1a_LP-DIR-T	MA14-1		lt	324.2	68.9	1	3	100	62.8	2.7	398	273	K		hargrave 2022-10-26 11:57:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-1a		MA14-1																	This study	LP-NOMAG				Adirondacks	MA14
+MA14-2a	MA14-2a_LP-DIR-T	MA14-2		mlt	77.2	-74.0	2	18	100	20.5	13.9	837	573	K		hargrave 2022-10-26 11:59:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-2a	MA14-2a_LP-DIR-T	MA14-2		lt	243.1	80.4	2	4	-1	124.6	4.1	423	273	K		hargrave 2022-10-26 11:59:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA14
+MA14-2a	MA14-2a_LP-DIR-T	MA14-2		mlt	77.2	-74.0	2	18	0	20.5	13.9	837	573	K		hargrave 2022-10-26 11:59:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-2a	MA14-2a_LP-DIR-T	MA14-2		lt	357.8	75.6	2	4	0	124.6	4.1	423	273	K		hargrave 2022-10-26 11:59:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-2a	MA14-2a_LP-DIR-T	MA14-2		mlt	22.0	-60.2	2	18	-1	20.5	13.9	837	573	K		hargrave 2022-10-26 11:59:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA14
+MA14-2a		MA14-2																	This study	LP-NOMAG				Adirondacks	MA14
+MA14-2a	MA14-2a_LP-DIR-T	MA14-2		lt	357.8	75.6	2	4	100	124.6	4.1	423	273	K		hargrave 2022-10-26 11:59:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-3a	MA14-3a_LP-DIR-T	MA14-3		mt	3.9	-67.6	1	19	-1	0.0	0.8	840	573	K		hargrave 2022-10-26 12:00:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA14
+MA14-3a	MA14-3a_LP-DIR-T	MA14-3		mt	46.8	-83.5	1	19	0	0.0	0.8	840	573	K		hargrave 2022-10-26 12:00:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-3a	MA14-3a_LP-DIR-T	MA14-3		mt	46.8	-83.5	1	19	100	0.0	0.8	840	573	K		hargrave 2022-10-26 12:00:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-3a		MA14-3																	This study	LP-NOMAG				Adirondacks	MA14
+MA14-4a	MA14-4a_LP-DIR-T	MA14-4		mlt	93.2	-48.3	3	11	-1	68.3	21.9	818	623	K		hargrave 2022-10-26 12:02:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA14
+MA14-4a	MA14-4a_LP-DIR-T	MA14-4		lt	263.6	63.2	3	3	-1	90.2	2.9	398	273	K		hargrave 2022-10-26 12:02:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA14
+MA14-4a	MA14-4a_LP-DIR-T	MA14-4		mt	107.9	25.2	3	7	-1	0.0	3.4	840	818	K		hargrave 2022-10-26 12:02:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA14
+MA14-4a	MA14-4a_LP-DIR-T	MA14-4		lt	333.8	57.3	3	3	0	90.2	2.9	398	273	K		hargrave 2022-10-26 12:02:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-4a	MA14-4a_LP-DIR-T	MA14-4		mlt	145.8	-42.3	3	11	0	68.3	21.9	818	623	K		hargrave 2022-10-26 12:02:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-4a	MA14-4a_LP-DIR-T	MA14-4		mt	125.7	30.0	3	7	0	0.0	3.4	840	818	K		hargrave 2022-10-26 12:02:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-4a	MA14-4a_LP-DIR-T	MA14-4		lt	333.8	57.3	3	3	100	90.2	2.9	398	273	K		hargrave 2022-10-26 12:02:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-4a	MA14-4a_LP-DIR-T	MA14-4		mlt	145.8	-42.3	3	11	100	68.3	21.9	818	623	K		hargrave 2022-10-26 12:02:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-4a	MA14-4a_LP-DIR-T	MA14-4		mt	125.7	30.0	3	7	100	0.0	3.4	840	818	K		hargrave 2022-10-26 12:02:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-4a		MA14-4																	This study	LP-NOMAG				Adirondacks	MA14
+MA14-5a	MA14-5a_LP-DIR-T	MA14-5		lt	24.3	61.5	1	3	0	61.3	3.6	398	273	K		hargrave 2022-10-26 12:03:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-5a	MA14-5a_LP-DIR-T	MA14-5		lt	331.2	81.7	1	3	-1	61.3	3.6	398	273	K		hargrave 2022-10-26 12:03:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA14
+MA14-5a	MA14-5a_LP-DIR-T	MA14-5		lt	24.3	61.5	1	3	100	61.3	3.6	398	273	K		hargrave 2022-10-26 12:03:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-5a		MA14-5																	This study	LP-NOMAG				Adirondacks	MA14
+MA14-6a	MA14-6a_LP-DIR-T	MA14-6		lt	281.9	79.4	2	3	-1	147.8	0.6	398	273	K		hargrave 2022-10-26 12:05:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA14
+MA14-6a	MA14-6a_LP-DIR-T	MA14-6		mlt	31.1	-69.1	2	19	-1	18.2	7.8	840	573	K		hargrave 2022-10-26 12:05:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA14
+MA14-6a	MA14-6a_LP-DIR-T	MA14-6		lt	5.9	66.5	2	3	0	147.8	0.6	398	273	K		hargrave 2022-10-26 12:05:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-6a	MA14-6a_LP-DIR-T	MA14-6		mlt	127.5	-79.3	2	19	0	18.2	7.8	840	573	K		hargrave 2022-10-26 12:05:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-6a	MA14-6a_LP-DIR-T	MA14-6		lt	5.9	66.5	2	3	100	147.8	0.6	398	273	K		hargrave 2022-10-26 12:05:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-6a	MA14-6a_LP-DIR-T	MA14-6		mlt	127.5	-79.3	2	19	100	18.2	7.8	840	573	K		hargrave 2022-10-26 12:05:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-6a		MA14-6																	This study	LP-NOMAG				Adirondacks	MA14
+MA14-7a	MA14-7a_LP-DIR-T	MA14-7		mt	136.0	62.4	3	6	0	141.4	3.2	837	818	K		hargrave 2022-10-26 12:09:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-7a	MA14-7a_LP-DIR-T	MA14-7		mlt	281.1	-67.4	3	17	0	22.7	3.5	818	473	K		hargrave 2022-10-26 12:09:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-7a	MA14-7a_LP-DIR-T	MA14-7		lt	26.4	75.2	3	3	0	168.7	6.3	398	273	K		hargrave 2022-10-26 12:09:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-7a	MA14-7a_LP-DIR-T	MA14-7		mlt	306.2	-61.7	3	17	-1	22.7	3.5	818	473	K		hargrave 2022-10-26 12:09:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA14
+MA14-7a		MA14-7																	This study	LP-NOMAG				Adirondacks	MA14
+MA14-7a	MA14-7a_LP-DIR-T	MA14-7		mlt	281.1	-67.4	3	17	100	22.7	3.5	818	473	K		hargrave 2022-10-26 12:09:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-7a	MA14-7a_LP-DIR-T	MA14-7		lt	155.4	84.1	3	3	-1	168.7	6.3	398	273	K		hargrave 2022-10-26 12:09:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA14
+MA14-7a	MA14-7a_LP-DIR-T	MA14-7		mt	141.9	49.0	3	6	-1	141.4	3.2	837	818	K		hargrave 2022-10-26 12:09:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA14
+MA14-7a	MA14-7a_LP-DIR-T	MA14-7		mt	136.0	62.4	3	6	100	141.4	3.2	837	818	K		hargrave 2022-10-26 12:09:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-7a	MA14-7a_LP-DIR-T	MA14-7		lt	26.4	75.2	3	3	100	168.7	6.3	398	273	K		hargrave 2022-10-26 12:09:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-8a	MA14-8a_LP-DIR-T	MA14-8		mlt	277.8	48.9	2	12	-1	86.0	6.0	837	723	K		hargrave 2022-10-26 12:10:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA14
+MA14-8a	MA14-8a_LP-DIR-T	MA14-8		lt	0.3	65.6	2	6	0	40.4	6.5	473	273	K		hargrave 2022-10-26 12:10:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-8a	MA14-8a_LP-DIR-T	MA14-8		mlt	321.4	42.6	2	12	0	86.0	6.0	837	723	K		hargrave 2022-10-26 12:10:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA14
+MA14-8a	MA14-8a_LP-DIR-T	MA14-8		lt	0.3	65.6	2	6	100	40.4	6.5	473	273	K		hargrave 2022-10-26 12:10:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-8a	MA14-8a_LP-DIR-T	MA14-8		mlt	321.4	42.6	2	12	100	86.0	6.0	837	723	K		hargrave 2022-10-26 12:10:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA14
+MA14-8a		MA14-8																	This study	LP-NOMAG				Adirondacks	MA14
+MA14-8a	MA14-8a_LP-DIR-T	MA14-8		lt	285.3	80.2	2	6	-1	40.4	6.5	473	273	K		hargrave 2022-10-26 12:10:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA14
+MA15-1a	MA15-1a_LP-DIR-T	MA15-1		mt	96.0	28.1	3	10	100	0.0	3.5	862	837	K		hargrave 2022-10-26 12:11:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-1a	MA15-1a_LP-DIR-T	MA15-1		mlt	354.0	-83.0	3	13	100	102.5	13.9	834	673	K		hargrave 2022-10-26 12:11:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-1a	MA15-1a_LP-DIR-T	MA15-1		lt	345.5	47.3	3	3	100	99.2	21.4	398	273	K		hargrave 2022-10-26 12:11:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-1a	MA15-1a_LP-DIR-T	MA15-1		mt	96.0	28.1	3	10	0	0.0	3.5	862	837	K		hargrave 2022-10-26 12:11:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-1a	MA15-1a_LP-DIR-T	MA15-1		mlt	354.0	-83.0	3	13	0	102.5	13.9	834	673	K		hargrave 2022-10-26 12:11:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-1a	MA15-1a_LP-DIR-T	MA15-1		mlt	7.7	-48.9	3	13	-1	102.5	13.9	834	673	K		hargrave 2022-10-26 12:11:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA15
+MA15-1a	MA15-1a_LP-DIR-T	MA15-1		mt	152.3	-3.5	3	10	-1	0.0	3.5	862	837	K		hargrave 2022-10-26 12:11:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA15
+MA15-1a	MA15-1a_LP-DIR-T	MA15-1		lt	89.8	65.4	3	3	-1	99.2	21.4	398	273	K		hargrave 2022-10-26 12:11:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA15
+MA15-1a		MA15-1																	This study	LP-NOMAG				Adirondacks	MA15
+MA15-1a	MA15-1a_LP-DIR-T	MA15-1		lt	345.5	47.3	3	3	0	99.2	21.4	398	273	K		hargrave 2022-10-26 12:11:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-2a	MA15-2a_LP-DIR-T	MA15-2		mlt	348.0	-74.0	2	12	0	122.5	26.1	831	673	K		hargrave 2022-10-26 12:13:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-2a	MA15-2a_LP-DIR-T	MA15-2		mlt	348.0	-74.0	2	12	100	122.5	26.1	831	673	K		hargrave 2022-10-26 12:13:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-2a	MA15-2a_LP-DIR-T	MA15-2		mt	162.1	7.0	2	10	-1	0.0	3.9	862	837	K		hargrave 2022-10-26 12:13:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA15
+MA15-2a	MA15-2a_LP-DIR-T	MA15-2		mt	111.3	33.5	2	10	100	0.0	3.9	862	837	K		hargrave 2022-10-26 12:13:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-2a	MA15-2a_LP-DIR-T	MA15-2		mlt	13.8	-47.9	2	12	-1	122.5	26.1	831	673	K		hargrave 2022-10-26 12:13:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA15
+MA15-2a	MA15-2a_LP-DIR-T	MA15-2		mt	111.3	33.5	2	10	0	0.0	3.9	862	837	K		hargrave 2022-10-26 12:13:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-2a		MA15-2																	This study	LP-NOMAG				Adirondacks	MA15
+MA15-3a	MA15-3a_LP-DIR-T	MA15-3		mt	97.6	28.6	3	10	100	0.0	6.7	862	837	K		hargrave 2022-10-26 12:14:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-3a		MA15-3																	This study	LP-NOMAG				Adirondacks	MA15
+MA15-3a	MA15-3a_LP-DIR-T	MA15-3		lt	122.3	66.4	3	4	-1	136.7	11.8	423	273	K		hargrave 2022-10-26 12:14:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA15
+MA15-3a	MA15-3a_LP-DIR-T	MA15-3		mlt	342.8	-20.5	3	18	-1	114.2	5.2	837	573	K		hargrave 2022-10-26 12:14:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA15
+MA15-3a	MA15-3a_LP-DIR-T	MA15-3		mt	168.4	-8.6	3	10	-1	0.0	6.7	862	837	K		hargrave 2022-10-26 12:14:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA15
+MA15-3a	MA15-3a_LP-DIR-T	MA15-3		lt	331.3	58.6	3	4	0	136.7	11.8	423	273	K		hargrave 2022-10-26 12:14:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-3a	MA15-3a_LP-DIR-T	MA15-3		mlt	261.1	-55.8	3	18	0	114.2	5.2	837	573	K		hargrave 2022-10-26 12:14:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-3a	MA15-3a_LP-DIR-T	MA15-3		mt	97.6	28.6	3	10	0	0.0	6.7	862	837	K		hargrave 2022-10-26 12:14:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-3a	MA15-3a_LP-DIR-T	MA15-3		lt	331.3	58.6	3	4	100	136.7	11.8	423	273	K		hargrave 2022-10-26 12:14:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-3a	MA15-3a_LP-DIR-T	MA15-3		mlt	261.1	-55.8	3	18	100	114.2	5.2	837	573	K		hargrave 2022-10-26 12:14:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-4a	MA15-4a_LP-DIR-T	MA15-4		lt	340.4	45.4	2	3	0	96.8	16.5	398	273	K		hargrave 2022-10-26 12:16:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-4a	MA15-4a_LP-DIR-T	MA15-4		mt	105.1	29.0	2	3	100	0.0	0.9	840	834	K		hargrave 2022-10-26 12:16:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-4a	MA15-4a_LP-DIR-T	MA15-4		lt	340.4	45.4	2	3	100	96.8	16.5	398	273	K		hargrave 2022-10-26 12:16:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-4a	MA15-4a_LP-DIR-T	MA15-4		mt	105.1	29.0	2	3	0	0.0	0.9	840	834	K		hargrave 2022-10-26 12:16:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-4a	MA15-4a_LP-DIR-T	MA15-4		lt	109.9	51.9	2	3	-1	96.8	16.5	398	273	K		hargrave 2022-10-26 12:16:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA15
+MA15-4a	MA15-4a_LP-DIR-T	MA15-4		mt	180.4	-15.0	2	3	-1	0.0	0.9	840	834	K		hargrave 2022-10-26 12:16:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA15
+MA15-4a		MA15-4																	This study	LP-NOMAG				Adirondacks	MA15
+MA15-5a		MA15-5																	This study	LP-NOMAG				Adirondacks	MA15
+MA15-5a	MA15-5a_LP-DIR-T	MA15-5		mt	162.6	-0.3	1	10	-1	0.0	3.4	862	837	K		hargrave 2022-10-26 12:17:27	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA15
+MA15-5a	MA15-5a_LP-DIR-T	MA15-5		mt	103.4	34.8	1	10	0	0.0	3.4	862	837	K		hargrave 2022-10-26 12:17:27	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-5a	MA15-5a_LP-DIR-T	MA15-5		mt	103.4	34.8	1	10	100	0.0	3.4	862	837	K		hargrave 2022-10-26 12:17:27	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-6a	MA15-6a_LP-DIR-T	MA15-6		mt	118.5	15.2	2	5	100	0.0	0.9	850	837	K		hargrave 2022-10-23 17:43:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-6a	MA15-6a_LP-DIR-T	MA15-6		mlt	198.5	-55.7	2	6	0	86.3	8.5	834	808	K		hargrave 2022-10-23 17:43:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-6a	MA15-6a_LP-DIR-T	MA15-6		mlt	312.7	-40.5	2	6	-1	86.3	8.5	834	808	K		hargrave 2022-10-23 17:43:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA15
+MA15-6a	MA15-6a_LP-DIR-T	MA15-6		mt	182.0	-28.8	2	5	-1	0.0	0.9	850	837	K		hargrave 2022-10-23 17:43:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA15
+MA15-6a		MA15-6																	This study	LP-NOMAG				Adirondacks	MA15
+MA15-6a	MA15-6a_LP-DIR-T	MA15-6		mlt	198.5	-55.7	2	6	100	86.3	8.5	834	808	K		hargrave 2022-10-23 17:43:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-6a	MA15-6a_LP-DIR-T	MA15-6		mt	118.5	15.2	2	5	0	0.0	0.9	850	837	K		hargrave 2022-10-23 17:43:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-7a		MA15-7																	This study	LP-NOMAG				Adirondacks	MA15
+MA15-7a	MA15-7a_LP-DIR-T	MA15-7		lt	8.6	52.1	2	3	100	60.4	20.8	398	273	K		hargrave 2022-10-23 17:45:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-7a	MA15-7a_LP-DIR-T	MA15-7		mt	106.2	43.7	2	5	100	0.0	1.4	850	837	K		hargrave 2022-10-23 17:45:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-7a	MA15-7a_LP-DIR-T	MA15-7		lt	8.6	52.1	2	3	0	60.4	20.8	398	273	K		hargrave 2022-10-23 17:45:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-7a	MA15-7a_LP-DIR-T	MA15-7		mt	106.2	43.7	2	5	0	0.0	1.4	850	837	K		hargrave 2022-10-23 17:45:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-7a	MA15-7a_LP-DIR-T	MA15-7		lt	125.9	43.8	2	3	-1	60.4	20.8	398	273	K		hargrave 2022-10-23 17:45:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA15
+MA15-7a	MA15-7a_LP-DIR-T	MA15-7		mt	172.5	-0.8	2	5	-1	0.0	1.4	850	837	K		hargrave 2022-10-23 17:45:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA15
+MA15-8a		MA15-8																	This study	LP-NOMAG				Adirondacks	MA15
+MA15-8a	MA15-8a_LP-DIR-T	MA15-8		lt	340.2	48.8	2	3	0	91.2	2.3	398	273	K		hargrave 2022-10-23 17:46:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-8a	MA15-8a_LP-DIR-T	MA15-8		mt	176.2	-11.5	2	5	-1	0.0	2.6	850	837	K		hargrave 2022-10-23 17:46:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA15
+MA15-8a	MA15-8a_LP-DIR-T	MA15-8		lt	93.6	64.0	2	3	-1	91.2	2.3	398	273	K		hargrave 2022-10-23 17:46:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA15
+MA15-8a	MA15-8a_LP-DIR-T	MA15-8		mt	114.7	23.4	2	5	0	0.0	2.6	850	837	K		hargrave 2022-10-23 17:46:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA15
+MA15-8a	MA15-8a_LP-DIR-T	MA15-8		lt	340.2	48.8	2	3	100	91.2	2.3	398	273	K		hargrave 2022-10-23 17:46:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA15
+MA15-8a	MA15-8a_LP-DIR-T	MA15-8		mt	114.7	23.4	2	5	100	0.0	2.6	850	837	K		hargrave 2022-10-23 17:46:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA15
+MA16-1a	MA16-1a_LP-DIR-T	MA16-1		mt	135.1	38.7	2	4	-1	0.0	3.9	840	831	K		hargrave 2022-10-23 11:00:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA16
+MA16-1a	MA16-1a_LP-DIR-T	MA16-1		mlt	13.5	-29.8	2	7	-1	105.8	4.9	828	763	K		hargrave 2022-10-23 11:00:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA16
+MA16-1a	MA16-1a_LP-DIR-T	MA16-1		mt	57.4	53.1	2	4	0	0.0	3.9	840	831	K		hargrave 2022-10-23 11:00:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA16
+MA16-1a		MA16-1																	This study	LP-NOMAG				Adirondacks	MA16
+MA16-1a	MA16-1a_LP-DIR-T	MA16-1		mlt	73.6	-78.2	2	7	0	105.8	4.9	828	763	K		hargrave 2022-10-23 11:00:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA16
+MA16-1a	MA16-1a_LP-DIR-T	MA16-1		mt	57.4	53.1	2	4	100	0.0	3.9	840	831	K		hargrave 2022-10-23 11:00:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA16
+MA16-1a	MA16-1a_LP-DIR-T	MA16-1		mlt	73.6	-78.2	2	7	100	105.8	4.9	828	763	K		hargrave 2022-10-23 11:00:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA16
+MA16-2a		MA16-2																	This study	LP-NOMAG				Adirondacks	MA16
+MA16-2a	MA16-2a_LP-DIR-T	MA16-2		mt	121.1	42.0	2	4	100	0.0	1.5	846	837	K		hargrave 2022-10-23 11:02:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA16
+MA16-2a	MA16-2a_LP-DIR-T	MA16-2		mlt	284.7	-41.9	2	4	100	161.9	6.9	831	818	K		hargrave 2022-10-23 11:02:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA16
+MA16-2a	MA16-2a_LP-DIR-T	MA16-2		mlt	284.7	-41.9	2	4	0	161.9	6.9	831	818	K		hargrave 2022-10-23 11:02:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA16
+MA16-2a	MA16-2a_LP-DIR-T	MA16-2		mt	141.8	4.1	2	4	-1	0.0	1.5	846	837	K		hargrave 2022-10-23 11:02:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA16
+MA16-2a	MA16-2a_LP-DIR-T	MA16-2		mlt	313.2	-12.9	2	4	-1	161.9	6.9	831	818	K		hargrave 2022-10-23 11:02:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA16
+MA16-2a	MA16-2a_LP-DIR-T	MA16-2		mt	121.1	42.0	2	4	0	0.0	1.5	846	837	K		hargrave 2022-10-23 11:02:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA16
+MA16-3a	MA16-3a_LP-DIR-T	MA16-3		mt	132.2	49.7	2	3	0	0.0	0.9	840	834	K		hargrave 2022-10-23 11:03:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA16
+MA16-3a	MA16-3a_LP-DIR-T	MA16-3		mlt	321.0	-74.7	2	5	-1	101.2	5.0	831	808	K		hargrave 2022-10-23 11:03:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA16
+MA16-3a	MA16-3a_LP-DIR-T	MA16-3		mt	157.2	3.4	2	3	-1	0.0	0.9	840	834	K		hargrave 2022-10-23 11:03:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA16
+MA16-3a		MA16-3																	This study	LP-NOMAG				Adirondacks	MA16
+MA16-3a	MA16-3a_LP-DIR-T	MA16-3		mt	132.2	49.7	2	3	100	0.0	0.9	840	834	K		hargrave 2022-10-23 11:03:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA16
+MA16-3a	MA16-3a_LP-DIR-T	MA16-3		mlt	183.5	-49.1	2	5	100	101.2	5.0	831	808	K		hargrave 2022-10-23 11:03:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA16
+MA16-3a	MA16-3a_LP-DIR-T	MA16-3		mlt	183.5	-49.1	2	5	0	101.2	5.0	831	808	K		hargrave 2022-10-23 11:03:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA16
+MA16-4a	MA16-4a_LP-DIR-T	MA16-4		mlt	71.1	-43.0	2	7	0	114.9	9.0	831	783	K		hargrave 2022-10-23 11:05:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA16
+MA16-4a	MA16-4a_LP-DIR-T	MA16-4		mt	152.7	31.2	2	4	-1	5.4	1.6	846	837	K		hargrave 2022-10-23 11:05:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA16
+MA16-4a	MA16-4a_LP-DIR-T	MA16-4		mlt	44.2	-16.0	2	7	-1	114.9	9.0	831	783	K		hargrave 2022-10-23 11:05:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA16
+MA16-4a		MA16-4																	This study	LP-NOMAG				Adirondacks	MA16
+MA16-4a	MA16-4a_LP-DIR-T	MA16-4		mt	118.2	64.7	2	4	0	5.4	1.6	846	837	K		hargrave 2022-10-23 11:05:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA16
+MA16-4a	MA16-4a_LP-DIR-T	MA16-4		mlt	71.1	-43.0	2	7	100	114.9	9.0	831	783	K		hargrave 2022-10-23 11:05:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA16
+MA16-4a	MA16-4a_LP-DIR-T	MA16-4		mt	118.2	64.7	2	4	100	5.4	1.6	846	837	K		hargrave 2022-10-23 11:05:02	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA16
+MA16-5a	MA16-5a_LP-DIR-T	MA16-5		mt	74.5	61.5	2	4	100	4.5	1.1	846	837	K		hargrave 2022-10-23 11:06:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA16
+MA16-5a	MA16-5a_LP-DIR-T	MA16-5		mlt	328.9	-58.0	2	7	100	121.5	6.8	834	798	K		hargrave 2022-10-23 11:06:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA16
+MA16-5a	MA16-5a_LP-DIR-T	MA16-5		mt	74.5	61.5	2	4	0	4.5	1.1	846	837	K		hargrave 2022-10-23 11:06:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA16
+MA16-5a	MA16-5a_LP-DIR-T	MA16-5		mlt	328.9	-58.0	2	7	0	121.5	6.8	834	798	K		hargrave 2022-10-23 11:06:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA16
+MA16-5a	MA16-5a_LP-DIR-T	MA16-5		mt	146.6	29.9	2	4	-1	4.5	1.1	846	837	K		hargrave 2022-10-23 11:06:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA16
+MA16-5a	MA16-5a_LP-DIR-T	MA16-5		mlt	353.1	-4.6	2	7	-1	121.5	6.8	834	798	K		hargrave 2022-10-23 11:06:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA16
+MA16-5a		MA16-5																	This study	LP-NOMAG				Adirondacks	MA16
+MA16-6a		MA16-6																	This study	LP-NOMAG				Adirondacks	MA16
+MA16-7a	MA16-7a_LP-DIR-T	MA16-7		mlt	274.5	-23.5	1	8	-1	127.1	7.1	840	808	K		hargrave 2022-10-26 12:20:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA16
+MA16-7a		MA16-7																	This study	LP-NOMAG				Adirondacks	MA16
+MA16-7a	MA16-7a_LP-DIR-T	MA16-7		mlt	242.1	-17.6	1	8	100	127.1	7.1	840	808	K		hargrave 2022-10-26 12:20:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA16
+MA16-7a	MA16-7a_LP-DIR-T	MA16-7		mlt	242.1	-17.6	1	8	0	127.1	7.1	840	808	K		hargrave 2022-10-26 12:20:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA16
+MA16-8a		MA16-8																	This study	LP-NOMAG				Adirondacks	MA16
+MA16-8a	MA16-8a_LP-DIR-T	MA16-8		mlt	66.0	1.0	2	6	-1	104.0	3.9	837	818	K		hargrave 2022-10-26 12:22:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA16
+MA16-8a	MA16-8a_LP-DIR-T	MA16-8		mt	196.8	37.9	2	4	-1	13.6	3.5	862	856	K		hargrave 2022-10-26 12:22:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA16
+MA16-8a	MA16-8a_LP-DIR-T	MA16-8		mlt	72.3	-18.3	2	6	0	104.0	3.9	837	818	K		hargrave 2022-10-26 12:22:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA16
+MA16-8a	MA16-8a_LP-DIR-T	MA16-8		mt	277.0	76.7	2	4	0	13.6	3.5	862	856	K		hargrave 2022-10-26 12:22:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA16
+MA16-8a	MA16-8a_LP-DIR-T	MA16-8		mlt	72.3	-18.3	2	6	100	104.0	3.9	837	818	K		hargrave 2022-10-26 12:22:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA16
+MA16-8a	MA16-8a_LP-DIR-T	MA16-8		mt	277.0	76.7	2	4	100	13.6	3.5	862	856	K		hargrave 2022-10-26 12:22:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA16
+MA17-10a	MA17-10a_LP-DIR-T	MA17-10		lt	180.0	14.3	1	14	-1	66.7	4.0	673	273	K		hargrave 2022-10-23 11:30:27	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA17
+MA17-10a	MA17-10a_LP-DIR-T	MA17-10		lt	34.6	66.3	1	14	0	66.7	4.0	673	273	K		hargrave 2022-10-23 11:30:27	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-10a	MA17-10a_LP-DIR-T	MA17-10		lt	34.6	66.3	1	14	100	66.7	4.0	673	273	K		hargrave 2022-10-23 11:30:27	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-10a		MA17-10																	This study	LP-NOMAG				Adirondacks	MA17
+MA17-11a	MA17-11a_LP-DIR-T	MA17-11		mt	99.1	18.1	2	3	0	0.0	6.0	840	834	K		hargrave 2022-10-23 11:31:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-11a	MA17-11a_LP-DIR-T	MA17-11		lt	165.8	15.2	2	4	-1	45.7	2.8	423	273	K		hargrave 2022-10-23 11:31:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA17
+MA17-11a		MA17-11																	This study	LP-NOMAG				Adirondacks	MA17
+MA17-11a	MA17-11a_LP-DIR-T	MA17-11		mt	224.8	-18.6	2	3	-1	0.0	6.0	840	834	K		hargrave 2022-10-23 11:31:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA17
+MA17-11a	MA17-11a_LP-DIR-T	MA17-11		lt	24.0	62.3	2	4	0	45.7	2.8	423	273	K		hargrave 2022-10-23 11:31:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-11a	MA17-11a_LP-DIR-T	MA17-11		mt	99.1	18.1	2	3	100	0.0	6.0	840	834	K		hargrave 2022-10-23 11:31:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-11a	MA17-11a_LP-DIR-T	MA17-11		lt	24.0	62.3	2	4	100	45.7	2.8	423	273	K		hargrave 2022-10-23 11:31:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-1a	MA17-1a_LP-DIR-T	MA17-1		lt	155.4	24.2	2	4	-1	120.1	6.5	473	398	K		hargrave 2022-10-26 12:26:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA17
+MA17-1a	MA17-1a_LP-DIR-T	MA17-1		mlt	215.1	-80.5	2	4	100	64.2	13.7	840	831	K		hargrave 2022-10-26 12:26:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-1a		MA17-1																	This study	LP-NOMAG				Adirondacks	MA17
+MA17-1a	MA17-1a_LP-DIR-T	MA17-1		mlt	215.1	-80.5	2	4	0	64.2	13.7	840	831	K		hargrave 2022-10-26 12:26:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-1a	MA17-1a_LP-DIR-T	MA17-1		mlt	355.1	-31.4	2	4	-1	64.2	13.7	840	831	K		hargrave 2022-10-26 12:26:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA17
+MA17-1a	MA17-1a_LP-DIR-T	MA17-1		lt	1.6	64.0	2	4	0	120.1	6.5	473	398	K		hargrave 2022-10-26 12:26:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-1a	MA17-1a_LP-DIR-T	MA17-1		lt	1.6	64.0	2	4	100	120.1	6.5	473	398	K		hargrave 2022-10-26 12:26:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-2a		MA17-2																	This study	LP-NOMAG				Adirondacks	MA17
+MA17-2a	MA17-2a_LP-DIR-T	MA17-2		lt	168.7	36.7	1	6	-1	125.7	8.3	473	273	K		hargrave 2022-10-26 12:27:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA17
+MA17-2a	MA17-2a_LP-DIR-T	MA17-2		lt	0.2	79.8	1	6	0	125.7	8.3	473	273	K		hargrave 2022-10-26 12:27:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-2a	MA17-2a_LP-DIR-T	MA17-2		lt	0.2	79.8	1	6	100	125.7	8.3	473	273	K		hargrave 2022-10-26 12:27:34	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-3a	MA17-3a_LP-DIR-T	MA17-3		lt	161.1	27.7	1	6	-1	133.0	4.5	473	273	K		hargrave 2022-10-23 11:17:10	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA17
+MA17-3a	MA17-3a_LP-DIR-T	MA17-3		lt	9.4	69.0	1	6	0	133.0	4.5	473	273	K		hargrave 2022-10-23 11:17:10	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-3a	MA17-3a_LP-DIR-T	MA17-3		lt	9.4	69.0	1	6	100	133.0	4.5	473	273	K		hargrave 2022-10-23 11:17:10	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-3a		MA17-3																	This study	LP-NOMAG				Adirondacks	MA17
+MA17-4a		MA17-4																	This study	LP-NOMAG				Adirondacks	MA17
+MA17-5a		MA17-5																	This study	LP-NOMAG				Adirondacks	MA17
+MA17-5a	MA17-5a_LP-DIR-T	MA17-5		mt	95.9	22.4	2	4	100	0.0	5.9	840	831	K		hargrave 2022-10-23 11:21:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-5a	MA17-5a_LP-DIR-T	MA17-5		lt	338.1	48.0	2	4	0	75.2	7.1	473	398	K		hargrave 2022-10-23 11:21:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-5a	MA17-5a_LP-DIR-T	MA17-5		mt	215.6	-19.8	2	4	-1	0.0	5.9	840	831	K		hargrave 2022-10-23 11:21:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA17
+MA17-5a	MA17-5a_LP-DIR-T	MA17-5		lt	134.1	22.9	2	4	-1	75.2	7.1	473	398	K		hargrave 2022-10-23 11:21:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA17
+MA17-5a	MA17-5a_LP-DIR-T	MA17-5		lt	338.1	48.0	2	4	100	75.2	7.1	473	398	K		hargrave 2022-10-23 11:21:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-5a	MA17-5a_LP-DIR-T	MA17-5		mt	95.9	22.4	2	4	0	0.0	5.9	840	831	K		hargrave 2022-10-23 11:21:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-6a		MA17-6																	This study	LP-NOMAG				Adirondacks	MA17
+MA17-6a	MA17-6a_LP-DIR-T	MA17-6		mt	116.2	13.2	2	5	100	0.0	4.2	846	834	K		hargrave 2022-10-23 11:24:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-6a	MA17-6a_LP-DIR-T	MA17-6		lt	162.5	29.4	2	4	-1	65.2	15.3	423	273	K		hargrave 2022-10-23 11:24:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA17
+MA17-6a	MA17-6a_LP-DIR-T	MA17-6		mt	247.5	-5.8	2	5	-1	0.0	4.2	846	834	K		hargrave 2022-10-23 11:24:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA17
+MA17-6a	MA17-6a_LP-DIR-T	MA17-6		lt	346.6	72.2	2	4	0	65.2	15.3	423	273	K		hargrave 2022-10-23 11:24:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-6a	MA17-6a_LP-DIR-T	MA17-6		mt	116.2	13.2	2	5	0	0.0	4.2	846	834	K		hargrave 2022-10-23 11:24:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-6a	MA17-6a_LP-DIR-T	MA17-6		lt	346.6	72.2	2	4	100	65.2	15.3	423	273	K		hargrave 2022-10-23 11:24:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-7a	MA17-7a_LP-DIR-T	MA17-7		mt	105.4	2.1	2	3	0	12.2	4.5	840	834	K		hargrave 2022-10-23 11:25:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-7a		MA17-7																	This study	LP-NOMAG				Adirondacks	MA17
+MA17-7a	MA17-7a_LP-DIR-T	MA17-7		lt	6.2	76.3	2	3	0	88.7	1.7	398	273	K		hargrave 2022-10-23 11:25:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-7a	MA17-7a_LP-DIR-T	MA17-7		lt	171.4	24.5	2	3	-1	88.7	1.7	398	273	K		hargrave 2022-10-23 11:25:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA17
+MA17-7a	MA17-7a_LP-DIR-T	MA17-7		mt	105.4	2.1	2	3	100	12.2	4.5	840	834	K		hargrave 2022-10-23 11:25:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-7a	MA17-7a_LP-DIR-T	MA17-7		lt	6.2	76.3	2	3	100	88.7	1.7	398	273	K		hargrave 2022-10-23 11:25:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-7a	MA17-7a_LP-DIR-T	MA17-7		mt	252.2	-19.5	2	3	-1	12.2	4.5	840	834	K		hargrave 2022-10-23 11:25:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA17
+MA17-8a	MA17-8a_LP-DIR-T	MA17-8		lt	16.3	61.6	2	3	100	46.1	16.2	398	273	K		hargrave 2022-10-23 11:27:27	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-8a	MA17-8a_LP-DIR-T	MA17-8		mt	94.2	14.1	2	3	0	0.0	8.1	840	834	K		hargrave 2022-10-23 11:27:27	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-8a		MA17-8																	This study	LP-NOMAG				Adirondacks	MA17
+MA17-8a	MA17-8a_LP-DIR-T	MA17-8		lt	16.3	61.6	2	3	0	46.1	16.2	398	273	K		hargrave 2022-10-23 11:27:27	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA17
+MA17-8a	MA17-8a_LP-DIR-T	MA17-8		mt	234.5	-13.5	2	3	-1	0.0	8.1	840	834	K		hargrave 2022-10-23 11:27:27	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA17
+MA17-8a	MA17-8a_LP-DIR-T	MA17-8		lt	168.7	17.2	2	3	-1	46.1	16.2	398	273	K		hargrave 2022-10-23 11:27:27	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA17
+MA17-8a	MA17-8a_LP-DIR-T	MA17-8		mt	94.2	14.1	2	3	100	0.0	8.1	840	834	K		hargrave 2022-10-23 11:27:27	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-9a		MA17-9																	This study	LP-NOMAG				Adirondacks	MA17
+MA17-9a	MA17-9a_LP-DIR-T	MA17-9		lt	346.0	59.4	1	3	100	106.3	3.2	398	273	K		hargrave 2022-10-23 11:28:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA17
+MA17-9a	MA17-9a_LP-DIR-T	MA17-9		lt	153.0	20.6	1	3	-1	106.3	3.2	398	273	K		hargrave 2022-10-23 11:28:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA17
+MA17-9a	MA17-9a_LP-DIR-T	MA17-9		lt	346.0	59.4	1	3	0	106.3	3.2	398	273	K		hargrave 2022-10-23 11:28:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA17
+MA2-1a		MA2-1																	This study	LP-NOMAG				Adirondacks	MA2
+MA2-1a	MA2-1a_LP-DIR-T	MA2-1		lt	137.1	40.8	3	3	-1	69.6	10.9	423	373	K		hargrave 2022-09-25 11:36:52	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-1a	MA2-1a_LP-DIR-T	MA2-1		ht	138.9	-35.5	3	6	-1	4.7	8.7	960	940	K		hargrave 2022-09-25 11:36:52	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-1a	MA2-1a_LP-DIR-T	MA2-1		mt	150.6	-37.2	3	15	-1	12.7	18.4	863	813	K		hargrave 2022-09-25 11:36:52	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-1a	MA2-1a_LP-DIR-T	MA2-1		lt	343.0	50.5	3	3	0	69.6	10.9	423	373	K		hargrave 2022-09-25 11:36:52	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-1a	MA2-1a_LP-DIR-T	MA2-1		ht	74.3	18.9	3	6	0	4.7	8.7	960	940	K		hargrave 2022-09-25 11:36:52	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-1a	MA2-1a_LP-DIR-T	MA2-1		mt	83.6	22.8	3	15	0	12.7	18.4	863	813	K		hargrave 2022-09-25 11:36:52	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-1a	MA2-1a_LP-DIR-T	MA2-1		lt	343.0	50.5	3	3	100	69.6	10.9	423	373	K		hargrave 2022-09-25 11:36:52	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-1a	MA2-1a_LP-DIR-T	MA2-1		ht	74.3	18.9	3	6	100	4.7	8.7	960	940	K		hargrave 2022-09-25 11:36:52	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-1a	MA2-1a_LP-DIR-T	MA2-1		mt	83.6	22.8	3	15	100	12.7	18.4	863	813	K		hargrave 2022-09-25 11:36:52	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-2a	MA2-2a_LP-DIR-T	MA2-2		ht	163.4	-17.4	3	5	-1	0.0	5.4	960	943	K		hargrave 2022-09-25 11:39:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA2
+MA2-2a	MA2-2a_LP-DIR-T	MA2-2		lt	352.2	46.9	3	6	100	59.9	34.0	473	273	K		hargrave 2022-09-25 11:39:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-2a	MA2-2a_LP-DIR-T	MA2-2		lt	131.9	39.2	3	6	-1	59.9	34.0	473	273	K		hargrave 2022-09-25 11:39:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-2a	MA2-2a_LP-DIR-T	MA2-2		mt	152.9	-23.7	3	15	-1	7.8	16.9	863	813	K		hargrave 2022-09-25 11:39:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-2a	MA2-2a_LP-DIR-T	MA2-2		ht	91.8	45.5	3	5	0	0.0	5.4	960	943	K		hargrave 2022-09-25 11:39:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-2a	MA2-2a_LP-DIR-T	MA2-2		lt	352.2	46.9	3	6	0	59.9	34.0	473	273	K		hargrave 2022-09-25 11:39:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-2a	MA2-2a_LP-DIR-T	MA2-2		mt	83.9	35.5	3	15	0	7.8	16.9	863	813	K		hargrave 2022-09-25 11:39:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-2a	MA2-2a_LP-DIR-T	MA2-2		ht	91.8	45.5	3	5	100	0.0	5.4	960	943	K		hargrave 2022-09-25 11:39:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-2a	MA2-2a_LP-DIR-T	MA2-2		mt	83.9	35.5	3	15	100	7.8	16.9	863	813	K		hargrave 2022-09-25 11:39:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-2a		MA2-2																	This study	LP-NOMAG				Adirondacks	MA2
+MA2-3a	MA2-3a_LP-DIR-T	MA2-3		lt	326.8	44.9	3	11	0	70.6	9.4	623	273	K		hargrave 2022-09-22 12:04:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-3a	MA2-3a_LP-DIR-T	MA2-3		lt	134.1	57.4	3	11	-1	70.6	9.4	623	273	K		hargrave 2022-09-22 12:04:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-3a	MA2-3a_LP-DIR-T	MA2-3		mt	86.8	33.3	3	15	100	3.8	13.5	863	813	K		hargrave 2022-09-22 12:04:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-3a	MA2-3a_LP-DIR-T	MA2-3		lt	326.8	44.9	3	11	100	70.6	9.4	623	273	K		hargrave 2022-09-22 12:04:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-3a	MA2-3a_LP-DIR-T	MA2-3		ht	84.0	26.3	3	6	100	0.0	4.2	952	929	K		hargrave 2022-09-22 12:04:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-3a	MA2-3a_LP-DIR-T	MA2-3		mt	155.3	-25.4	3	15	-1	3.8	13.5	863	813	K		hargrave 2022-09-22 12:04:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-3a	MA2-3a_LP-DIR-T	MA2-3		ht	149.0	-30.4	3	6	-1	0.0	4.2	952	929	K		hargrave 2022-09-22 12:04:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA2
+MA2-3a	MA2-3a_LP-DIR-T	MA2-3		mt	86.8	33.3	3	15	0	3.8	13.5	863	813	K		hargrave 2022-09-22 12:04:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-3a	MA2-3a_LP-DIR-T	MA2-3		ht	84.0	26.3	3	6	0	0.0	4.2	952	929	K		hargrave 2022-09-22 12:04:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-3a		MA2-3																	This study	LP-NOMAG				Adirondacks	MA2
+MA2-4a		MA2-4																	This study	LP-NOMAG				Adirondacks	MA2
+MA2-4a	MA2-4a_LP-DIR-T	MA2-4		ht	145.3	-28.5	3	9	-1	8.4	15.7	952	913	K		hargrave 2022-09-22 12:05:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-4a	MA2-4a_LP-DIR-T	MA2-4		lt	114.2	47.6	3	4	-1	82.7	13.7	423	273	K		hargrave 2022-09-22 12:05:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-4a	MA2-4a_LP-DIR-T	MA2-4		mt	176.6	-22.6	3	13	-1	11.0	11.4	863	833	K		hargrave 2022-09-22 12:05:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-4a	MA2-4a_LP-DIR-T	MA2-4		ht	85.5	27.0	3	9	0	8.4	15.7	952	913	K		hargrave 2022-09-22 12:05:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-4a	MA2-4a_LP-DIR-T	MA2-4		lt	347.8	34.2	3	4	0	82.7	13.7	423	273	K		hargrave 2022-09-22 12:05:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-4a	MA2-4a_LP-DIR-T	MA2-4		mt	115.5	42.3	3	13	0	11.0	11.4	863	833	K		hargrave 2022-09-22 12:05:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-4a	MA2-4a_LP-DIR-T	MA2-4		ht	85.5	27.0	3	9	100	8.4	15.7	952	913	K		hargrave 2022-09-22 12:05:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-4a	MA2-4a_LP-DIR-T	MA2-4		lt	347.8	34.2	3	4	100	82.7	13.7	423	273	K		hargrave 2022-09-22 12:05:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-4a	MA2-4a_LP-DIR-T	MA2-4		mt	115.5	42.3	3	13	100	11.0	11.4	863	833	K		hargrave 2022-09-22 12:05:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-5a	MA2-5a_LP-DIR-T	MA2-5		mt	135.7	47.2	2	12	100	2.3	11.6	863	838	K		hargrave 2022-09-22 12:07:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-5a	MA2-5a_LP-DIR-T	MA2-5		ht	129.2	42.3	2	6	100	0.0	7.8	948	923	K		hargrave 2022-09-22 12:07:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-5a	MA2-5a_LP-DIR-T	MA2-5		mt	135.7	47.2	2	12	0	2.3	11.6	863	838	K		hargrave 2022-09-22 12:07:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-5a	MA2-5a_LP-DIR-T	MA2-5		ht	129.2	42.3	2	6	0	0.0	7.8	948	923	K		hargrave 2022-09-22 12:07:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-5a	MA2-5a_LP-DIR-T	MA2-5		mt	187.9	-19.1	2	12	-1	2.3	11.6	863	838	K		hargrave 2022-09-22 12:07:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-5a	MA2-5a_LP-DIR-T	MA2-5		ht	183.7	-24.5	2	6	-1	0.0	7.8	948	923	K		hargrave 2022-09-22 12:07:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA2
+MA2-5a		MA2-5																	This study	LP-NOMAG				Adirondacks	MA2
+MA2-6a		MA2-6																	This study	LP-NOMAG				Adirondacks	MA2
+MA2-6a	MA2-6a_LP-DIR-T	MA2-6		ht	163.9	-22.8	2	6	-1	0.0	8.7	952	929	K		hargrave 2022-09-22 12:08:16	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA2
+MA2-6a	MA2-6a_LP-DIR-T	MA2-6		mt	167.9	-15.6	2	13	-1	9.4	14.6	860	828	K		hargrave 2022-09-22 12:08:16	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-6a	MA2-6a_LP-DIR-T	MA2-6		ht	95.7	41.6	2	6	0	0.0	8.7	952	929	K		hargrave 2022-09-22 12:08:16	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-6a	MA2-6a_LP-DIR-T	MA2-6		mt	97.5	49.7	2	13	0	9.4	14.6	860	828	K		hargrave 2022-09-22 12:08:16	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-6a	MA2-6a_LP-DIR-T	MA2-6		ht	95.7	41.6	2	6	100	0.0	8.7	952	929	K		hargrave 2022-09-22 12:08:16	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-6a	MA2-6a_LP-DIR-T	MA2-6		mt	97.5	49.7	2	13	100	9.4	14.6	860	828	K		hargrave 2022-09-22 12:08:16	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-7a	MA2-7a_LP-DIR-T	MA2-7		ht	150.9	-27.3	3	5	-1	22.7	12.5	952	934	K		hargrave 2022-09-22 12:09:26	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-7a	MA2-7a_LP-DIR-T	MA2-7		lt	159.2	48.0	3	4	-1	42.0	13.9	423	273	K		hargrave 2022-09-22 12:09:26	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-7a	MA2-7a_LP-DIR-T	MA2-7		mt	151.3	-13.4	3	5	-1	6.7	6.7	857	846	K		hargrave 2022-09-22 12:09:26	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-7a	MA2-7a_LP-DIR-T	MA2-7		ht	96.9	26.3	3	5	0	22.7	12.5	952	934	K		hargrave 2022-09-22 12:09:26	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-7a	MA2-7a_LP-DIR-T	MA2-7		lt	341.3	66.0	3	4	0	42.0	13.9	423	273	K		hargrave 2022-09-22 12:09:26	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-7a	MA2-7a_LP-DIR-T	MA2-7		ht	96.9	26.3	3	5	100	22.7	12.5	952	934	K		hargrave 2022-09-22 12:09:26	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-7a	MA2-7a_LP-DIR-T	MA2-7		lt	341.3	66.0	3	4	100	42.0	13.9	423	273	K		hargrave 2022-09-22 12:09:26	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-7a	MA2-7a_LP-DIR-T	MA2-7		mt	89.1	38.5	3	5	100	6.7	6.7	857	846	K		hargrave 2022-09-22 12:09:26	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-7a		MA2-7																	This study	LP-NOMAG				Adirondacks	MA2
+MA2-7a	MA2-7a_LP-DIR-T	MA2-7		mt	89.1	38.5	3	5	0	6.7	6.7	857	846	K		hargrave 2022-09-22 12:09:26	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-8a	MA2-8a_LP-DIR-T	MA2-8		ht	90.1	16.5	3	6	100	0.0	4.5	952	923	K		hargrave 2022-09-22 12:10:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-8a	MA2-8a_LP-DIR-T	MA2-8		lt	137.4	42.5	3	4	-1	59.1	15.8	423	273	K		hargrave 2022-09-22 12:10:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-8a	MA2-8a_LP-DIR-T	MA2-8		ht	139.2	-37.7	3	6	-1	0.0	4.5	952	923	K		hargrave 2022-09-22 12:10:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA2
+MA2-8a	MA2-8a_LP-DIR-T	MA2-8		mt	165.5	-15.2	3	12	-1	25.6	15.1	857	828	K		hargrave 2022-09-22 12:10:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-8a	MA2-8a_LP-DIR-T	MA2-8		lt	355.3	51.0	3	4	0	59.1	15.8	423	273	K		hargrave 2022-09-22 12:10:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-8a	MA2-8a_LP-DIR-T	MA2-8		ht	90.1	16.5	3	6	0	0.0	4.5	952	923	K		hargrave 2022-09-22 12:10:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-8a	MA2-8a_LP-DIR-T	MA2-8		mt	101.8	47.4	3	12	0	25.6	15.1	857	828	K		hargrave 2022-09-22 12:10:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-8a	MA2-8a_LP-DIR-T	MA2-8		lt	355.3	51.0	3	4	100	59.1	15.8	423	273	K		hargrave 2022-09-22 12:10:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-8a		MA2-8																	This study	LP-NOMAG				Adirondacks	MA2
+MA2-8a	MA2-8a_LP-DIR-T	MA2-8		mt	101.8	47.4	3	12	100	25.6	15.1	857	828	K		hargrave 2022-09-22 12:10:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-9a	MA2-9a_LP-DIR-T	MA2-9		mt	121.2	49.1	2	8	100	8.3	21.5	845	813	K		hargrave 2022-09-12 12:45:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-9a	MA2-9a_LP-DIR-T	MA2-9		ht	113.8	41.2	2	5	100	0.0	4.4	857	846	K		hargrave 2022-09-12 12:45:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA2
+MA2-9a	MA2-9a_LP-DIR-T	MA2-9		mt	179.7	-16.9	2	8	-1	8.3	21.5	845	813	K		hargrave 2022-09-12 12:45:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA2
+MA2-9a	MA2-9a_LP-DIR-T	MA2-9		ht	113.8	41.2	2	5	0	0.0	4.4	857	846	K		hargrave 2022-09-12 12:45:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA2
+MA2-9a	MA2-9a_LP-DIR-T	MA2-9		ht	173.5	-24.4	2	5	-1	0.0	4.4	857	846	K		hargrave 2022-09-12 12:45:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA2
+MA2-9a		MA2-9																	This study	LP-NOMAG				Adirondacks	MA2
+MA2-9a	MA2-9a_LP-DIR-T	MA2-9		mt	121.2	49.1	2	8	0	8.3	21.5	845	813	K		hargrave 2022-09-12 12:45:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA2
+MA3-1a	MA3-1a_LP-DIR-T	MA3-1		ht	92.2	22.9	3	11	0	0.0	9.9	857	833	K		hargrave 2022-08-19 11:27:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-1a	MA3-1a_LP-DIR-T	MA3-1		ht	92.2	22.9	3	11	100	0.0	9.9	857	833	K		hargrave 2022-08-19 11:27:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-1a	MA3-1a_LP-DIR-T	MA3-1		lt	145.8	30.1	3	6	-1	125.8	6.7	473	273	K		hargrave 2022-08-19 11:27:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-1a	MA3-1a_LP-DIR-T	MA3-1		ht	196.8	-46.3	3	11	-1	0.0	9.9	857	833	K		hargrave 2022-08-19 11:27:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA3
+MA3-1a	MA3-1a_LP-DIR-T	MA3-1		mt	3.4	5.0	3	9	-1	12.8	4.5	833	723	K		hargrave 2022-08-19 11:27:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-1a	MA3-1a_LP-DIR-T	MA3-1		mt	268.0	-65.8	3	9	0	12.8	4.5	833	723	K		hargrave 2022-08-19 11:27:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-1a	MA3-1a_LP-DIR-T	MA3-1		lt	323.3	57.1	3	6	100	125.8	6.7	473	273	K		hargrave 2022-08-19 11:27:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-1a	MA3-1a_LP-DIR-T	MA3-1		mt	268.0	-65.8	3	9	100	12.8	4.5	833	723	K		hargrave 2022-08-19 11:27:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-1a		MA3-1																	This study	LP-NOMAG				Adirondacks	MA3
+MA3-1a	MA3-1a_LP-DIR-T	MA3-1		lt	323.3	57.1	3	6	0	125.8	6.7	473	273	K		hargrave 2022-08-19 11:27:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-2a	MA3-2a_LP-DIR-T	MA3-2		lt	297.6	68.0	3	10	0	131.7	12.7	598	273	K		hargrave 2022-08-18 09:33:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-2a		MA3-2																	This study	LP-NOMAG				Adirondacks	MA3
+MA3-2a	MA3-2a_LP-DIR-T	MA3-2		lt	297.6	68.0	3	10	100	131.7	12.7	598	273	K		hargrave 2022-08-18 09:33:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-2a	MA3-2a_LP-DIR-T	MA3-2		ht	102.0	30.4	3	10	100	0.0	11.5	855	833	K		hargrave 2022-08-18 09:33:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-2a	MA3-2a_LP-DIR-T	MA3-2		mt	259.2	-63.3	3	8	100	12.5	3.0	828	723	K		hargrave 2022-08-18 09:33:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-2a	MA3-2a_LP-DIR-T	MA3-2		ht	204.3	-34.0	3	10	-1	0.0	11.5	855	833	K		hargrave 2022-08-18 09:33:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA3
+MA3-2a	MA3-2a_LP-DIR-T	MA3-2		lt	162.8	37.2	3	10	-1	131.7	12.7	598	273	K		hargrave 2022-08-18 09:33:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-2a	MA3-2a_LP-DIR-T	MA3-2		mt	259.2	-63.3	3	8	0	12.5	3.0	828	723	K		hargrave 2022-08-18 09:33:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-2a	MA3-2a_LP-DIR-T	MA3-2		ht	102.0	30.4	3	10	0	0.0	11.5	855	833	K		hargrave 2022-08-18 09:33:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-2a	MA3-2a_LP-DIR-T	MA3-2		mt	0.2	5.7	3	8	-1	12.5	3.0	828	723	K		hargrave 2022-08-18 09:33:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-3a	MA3-3a_LP-DIR-T	MA3-3		ht	102.9	28.8	3	10	0	0.0	10.0	855	833	K		hargrave 2022-08-18 09:37:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-3a	MA3-3a_LP-DIR-T	MA3-3		mt	263.9	-63.3	3	6	0	12.4	3.1	828	763	K		hargrave 2022-08-18 09:37:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-3a	MA3-3a_LP-DIR-T	MA3-3		lt	289.7	66.7	3	3	100	119.5	0.5	398	273	K		hargrave 2022-08-18 09:37:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-3a	MA3-3a_LP-DIR-T	MA3-3		ht	102.9	28.8	3	10	100	0.0	10.0	855	833	K		hargrave 2022-08-18 09:37:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-3a	MA3-3a_LP-DIR-T	MA3-3		mt	263.9	-63.3	3	6	100	12.4	3.1	828	763	K		hargrave 2022-08-18 09:37:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-3a	MA3-3a_LP-DIR-T	MA3-3		lt	168.2	37.9	3	3	-1	119.5	0.5	398	273	K		hargrave 2022-08-18 09:37:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-3a		MA3-3																	This study	LP-NOMAG				Adirondacks	MA3
+MA3-3a	MA3-3a_LP-DIR-T	MA3-3		ht	200.2	-41.3	3	10	-1	0.0	10.0	855	833	K		hargrave 2022-08-18 09:37:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA3
+MA3-3a	MA3-3a_LP-DIR-T	MA3-3		mt	359.2	9.7	3	6	-1	12.4	3.1	828	763	K		hargrave 2022-08-18 09:37:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-3a	MA3-3a_LP-DIR-T	MA3-3		lt	289.7	66.7	3	3	0	119.5	0.5	398	273	K		hargrave 2022-08-18 09:37:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-4a		MA3-4																	This study	LP-NOMAG				Adirondacks	MA3
+MA3-4a	MA3-4a_LP-DIR-T	MA3-4		lt	276.2	61.9	3	8	100	112.5	10.1	523	273	K		hargrave 2022-08-18 09:38:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-4a	MA3-4a_LP-DIR-T	MA3-4		lt	276.2	61.9	3	8	0	112.5	10.1	523	273	K		hargrave 2022-08-18 09:38:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-4a	MA3-4a_LP-DIR-T	MA3-4		ht	109.5	29.5	3	10	100	0.0	13.6	852	828	K		hargrave 2022-08-18 09:38:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-4a	MA3-4a_LP-DIR-T	MA3-4		mt	267.1	-55.2	3	7	0	10.9	3.6	828	743	K		hargrave 2022-08-18 09:38:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-4a	MA3-4a_LP-DIR-T	MA3-4		lt	172.5	61.7	3	8	-1	112.5	10.1	523	273	K		hargrave 2022-08-18 09:38:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-4a	MA3-4a_LP-DIR-T	MA3-4		mt	359.1	0.7	3	7	-1	10.9	3.6	828	743	K		hargrave 2022-08-18 09:38:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-4a	MA3-4a_LP-DIR-T	MA3-4		ht	199.7	-23.5	3	10	-1	0.0	13.6	852	828	K		hargrave 2022-08-18 09:38:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA3
+MA3-4a	MA3-4a_LP-DIR-T	MA3-4		mt	267.1	-55.2	3	7	100	10.9	3.6	828	743	K		hargrave 2022-08-18 09:38:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-4a	MA3-4a_LP-DIR-T	MA3-4		ht	109.5	29.5	3	10	0	0.0	13.6	852	828	K		hargrave 2022-08-18 09:38:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-5a	MA3-5a_LP-DIR-T	MA3-5		ht	99.2	27.1	3	10	100	0.0	14.2	855	833	K		hargrave 2022-08-18 09:41:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-5a		MA3-5																	This study	LP-NOMAG				Adirondacks	MA3
+MA3-5a	MA3-5a_LP-DIR-T	MA3-5		mt	273.5	-64.7	3	6	100	10.6	3.3	828	763	K		hargrave 2022-08-18 09:41:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-5a	MA3-5a_LP-DIR-T	MA3-5		lt	278.0	68.1	3	9	0	122.5	10.4	548	273	K		hargrave 2022-08-18 09:41:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-5a	MA3-5a_LP-DIR-T	MA3-5		lt	172.1	48.0	3	9	-1	122.5	10.4	548	273	K		hargrave 2022-08-18 09:41:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-5a	MA3-5a_LP-DIR-T	MA3-5		mt	4.2	-2.0	3	6	-1	10.6	3.3	828	763	K		hargrave 2022-08-18 09:41:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-5a	MA3-5a_LP-DIR-T	MA3-5		ht	196.6	-33.9	3	10	-1	0.0	14.2	855	833	K		hargrave 2022-08-18 09:41:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA3
+MA3-5a	MA3-5a_LP-DIR-T	MA3-5		mt	273.5	-64.7	3	6	0	10.6	3.3	828	763	K		hargrave 2022-08-18 09:41:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-5a	MA3-5a_LP-DIR-T	MA3-5		ht	99.2	27.1	3	10	0	0.0	14.2	855	833	K		hargrave 2022-08-18 09:41:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-5a	MA3-5a_LP-DIR-T	MA3-5		lt	278.0	68.1	3	9	100	122.5	10.4	548	273	K		hargrave 2022-08-18 09:41:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-6a		MA3-6																	This study	LP-NOMAG				Adirondacks	MA3
+MA3-6a	MA3-6a_LP-DIR-T	MA3-6		ht	179.5	-25.2	3	6	-1	0.0	18.1	852	842	K		hargrave 2022-08-18 09:42:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA3
+MA3-6a	MA3-6a_LP-DIR-T	MA3-6		lt	319.0	59.4	3	10	100	106.5	7.2	598	273	K		hargrave 2022-08-18 09:42:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-6a	MA3-6a_LP-DIR-T	MA3-6		ht	84.2	31.8	3	6	100	0.0	18.1	852	842	K		hargrave 2022-08-18 09:42:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-6a	MA3-6a_LP-DIR-T	MA3-6		mt	257.9	-56.5	3	3	0	12.4	1.9	828	798	K		hargrave 2022-08-18 09:42:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-6a	MA3-6a_LP-DIR-T	MA3-6		lt	319.0	59.4	3	10	0	106.5	7.2	598	273	K		hargrave 2022-08-18 09:42:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-6a	MA3-6a_LP-DIR-T	MA3-6		ht	84.2	31.8	3	6	0	0.0	18.1	852	842	K		hargrave 2022-08-18 09:42:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-6a	MA3-6a_LP-DIR-T	MA3-6		mt	356.2	0.3	3	3	-1	12.4	1.9	828	798	K		hargrave 2022-08-18 09:42:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-6a	MA3-6a_LP-DIR-T	MA3-6		lt	143.6	45.9	3	10	-1	106.5	7.2	598	273	K		hargrave 2022-08-18 09:42:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-6a	MA3-6a_LP-DIR-T	MA3-6		mt	257.9	-56.5	3	3	100	12.4	1.9	828	798	K		hargrave 2022-08-18 09:42:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-7a	MA3-7a_LP-DIR-T	MA3-7		lt	191.4	50.3	3	8	-1	122.7	12.1	523	273	K		hargrave 2022-08-18 09:44:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-7a	MA3-7a_LP-DIR-T	MA3-7		mt	0.7	-10.2	3	4	-1	36.5	4.0	838	813	K		hargrave 2022-08-18 09:44:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-7a	MA3-7a_LP-DIR-T	MA3-7		ht	199.0	-16.6	3	9	-1	0.0	24.1	855	838	K		hargrave 2022-08-18 09:44:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA3
+MA3-7a	MA3-7a_LP-DIR-T	MA3-7		ht	110.9	34.4	3	9	0	0.0	24.1	855	838	K		hargrave 2022-08-18 09:44:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-7a	MA3-7a_LP-DIR-T	MA3-7		lt	242.2	73.5	3	8	100	122.7	12.1	523	273	K		hargrave 2022-08-18 09:44:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-7a	MA3-7a_LP-DIR-T	MA3-7		mt	270.3	-64.2	3	4	100	36.5	4.0	838	813	K		hargrave 2022-08-18 09:44:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-7a	MA3-7a_LP-DIR-T	MA3-7		ht	110.9	34.4	3	9	100	0.0	24.1	855	838	K		hargrave 2022-08-18 09:44:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-7a	MA3-7a_LP-DIR-T	MA3-7		lt	242.2	73.5	3	8	0	122.7	12.1	523	273	K		hargrave 2022-08-18 09:44:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-7a	MA3-7a_LP-DIR-T	MA3-7		mt	270.3	-64.2	3	4	0	36.5	4.0	838	813	K		hargrave 2022-08-18 09:44:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-7a		MA3-7																	This study	LP-NOMAG				Adirondacks	MA3
+MA3-8a		MA3-8																	This study	LP-NOMAG				Adirondacks	MA3
+MA3-8a	MA3-8a_LP-DIR-T	MA3-8		ht	97.7	33.9	3	10	100	0.0	9.6	855	833	K		hargrave 2022-08-18 09:45:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-8a	MA3-8a_LP-DIR-T	MA3-8		mt	247.6	-58.1	3	3	100	19.5	2.8	828	798	K		hargrave 2022-08-18 09:45:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-8a	MA3-8a_LP-DIR-T	MA3-8		lt	301.8	76.6	3	10	100	137.1	13.5	598	273	K		hargrave 2022-08-18 09:45:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA3
+MA3-8a	MA3-8a_LP-DIR-T	MA3-8		ht	97.7	33.9	3	10	0	0.0	9.6	855	833	K		hargrave 2022-08-18 09:45:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-8a	MA3-8a_LP-DIR-T	MA3-8		mt	247.6	-58.1	3	3	0	19.5	2.8	828	798	K		hargrave 2022-08-18 09:45:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-8a	MA3-8a_LP-DIR-T	MA3-8		lt	301.8	76.6	3	10	0	137.1	13.5	598	273	K		hargrave 2022-08-18 09:45:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA3
+MA3-8a	MA3-8a_LP-DIR-T	MA3-8		ht	201.1	-34.4	3	10	-1	0.0	9.6	855	833	K		hargrave 2022-08-18 09:45:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA3
+MA3-8a	MA3-8a_LP-DIR-T	MA3-8		mt	355.1	13.5	3	3	-1	19.5	2.8	828	798	K		hargrave 2022-08-18 09:45:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA3-8a	MA3-8a_LP-DIR-T	MA3-8		lt	169.4	27.1	3	10	-1	137.1	13.5	598	273	K		hargrave 2022-08-18 09:45:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA3
+MA4-10a	MA4-10a_LP-DIR-T	MA4-10		mt	211.7	-38.3	2	15	0	26.3	1.9	723	273	K		hargrave 2022-09-25 11:56:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA4
+MA4-10a		MA4-10																	This study	LP-NOMAG				Adirondacks	MA4
+MA4-10a	MA4-10a_LP-DIR-T	MA4-10		mt	211.7	-38.3	2	15	100	26.3	1.9	723	273	K		hargrave 2022-09-25 11:56:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA4
+MA4-10a	MA4-10a_LP-DIR-T	MA4-10		ht	73.4	45.4	2	17	100	0.0	5.7	960	874	K		hargrave 2022-09-25 11:56:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA4
+MA4-10a	MA4-10a_LP-DIR-T	MA4-10		ht	100.4	72.0	2	17	-1	0.0	5.7	960	874	K		hargrave 2022-09-25 11:56:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA4
+MA4-10a	MA4-10a_LP-DIR-T	MA4-10		mt	113.6	-76.3	2	15	-1	26.3	1.9	723	273	K		hargrave 2022-09-25 11:56:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA4
+MA4-10a	MA4-10a_LP-DIR-T	MA4-10		ht	73.4	45.4	2	17	0	0.0	5.7	960	874	K		hargrave 2022-09-25 11:56:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA4
+MA4-11a		MA4-11																	This study	LP-NOMAG				Adirondacks	MA4
+MA4-11a	MA4-11a_LP-DIR-T	MA4-11		ht	125.9	35.7	1	21	-1	0.0	2.8	952	855	K		hargrave 2022-09-22 12:27:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA4
+MA4-11a	MA4-11a_LP-DIR-T	MA4-11		ht	139.7	47.5	1	21	0	0.0	2.8	952	855	K		hargrave 2022-09-22 12:27:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA4
+MA4-11a	MA4-11a_LP-DIR-T	MA4-11		ht	139.7	47.5	1	21	100	0.0	2.8	952	855	K		hargrave 2022-09-22 12:27:35	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA4
+MA4-1a		MA4-1																	This study	LP-NOMAG				Adirondacks	MA4
+MA4-1a	MA4-1a_LP-DIR-T	MA4-1		ht	117.1	21.4	1	14	-1	0.0	4.7	960	893	K		hargrave 2022-09-25 11:40:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA4
+MA4-1a	MA4-1a_LP-DIR-T	MA4-1		ht	107.5	33.3	1	14	0	0.0	4.7	960	893	K		hargrave 2022-09-25 11:40:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA4
+MA4-1a	MA4-1a_LP-DIR-T	MA4-1		ht	107.5	33.3	1	14	100	0.0	4.7	960	893	K		hargrave 2022-09-25 11:40:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA4
+MA4-2a		MA4-2																	This study	LP-NOMAG				Adirondacks	MA4
+MA4-2a	MA4-2a_LP-DIR-T	MA4-2		mt	109.9	-3.0	2	11	-1	9.1	8.9	857	833	K		hargrave 2022-09-25 11:42:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA4
+MA4-2a	MA4-2a_LP-DIR-T	MA4-2		ht	118.8	28.0	2	15	0	0.0	4.7	960	883	K		hargrave 2022-09-25 11:42:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA4
+MA4-2a	MA4-2a_LP-DIR-T	MA4-2		mt	133.9	15.5	2	11	0	9.1	8.9	857	833	K		hargrave 2022-09-25 11:42:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA4
+MA4-2a	MA4-2a_LP-DIR-T	MA4-2		ht	113.8	15.3	2	15	-1	0.0	4.7	960	883	K		hargrave 2022-09-25 11:42:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA4
+MA4-2a	MA4-2a_LP-DIR-T	MA4-2		mt	133.9	15.5	2	11	100	9.1	8.9	857	833	K		hargrave 2022-09-25 11:42:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA4
+MA4-2a	MA4-2a_LP-DIR-T	MA4-2		ht	118.8	28.0	2	15	100	0.0	4.7	960	883	K		hargrave 2022-09-25 11:42:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA4
+MA4-3a	MA4-3a_LP-DIR-T	MA4-3		ht	113.0	37.2	1	22	100	0.0	5.8	956	855	K		hargrave 2022-09-25 11:44:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA4
+MA4-3a		MA4-3																	This study	LP-NOMAG				Adirondacks	MA4
+MA4-3a	MA4-3a_LP-DIR-T	MA4-3		ht	113.0	37.2	1	22	0	0.0	5.8	956	855	K		hargrave 2022-09-25 11:44:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA4
+MA4-3a	MA4-3a_LP-DIR-T	MA4-3		ht	118.9	24.9	1	22	-1	0.0	5.8	956	855	K		hargrave 2022-09-25 11:44:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA4
+MA4-4a	MA4-4a_LP-DIR-T	MA4-4		ht	115.0	14.9	1	23	-1	0.0	4.1	960	855	K		hargrave 2022-09-25 11:45:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA4
+MA4-4a	MA4-4a_LP-DIR-T	MA4-4		ht	123.2	28.8	1	23	0	0.0	4.1	960	855	K		hargrave 2022-09-25 11:45:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA4
+MA4-4a	MA4-4a_LP-DIR-T	MA4-4		ht	123.2	28.8	1	23	100	0.0	4.1	960	855	K		hargrave 2022-09-25 11:45:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA4
+MA4-4a		MA4-4																	This study	LP-NOMAG				Adirondacks	MA4
+MA4-5a	MA4-5a_LP-DIR-T	MA4-5		ht	125.5	28.1	1	20	-1	0.0	5.0	960	863	K		hargrave 2022-09-25 11:47:21	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA4
+MA4-5a	MA4-5a_LP-DIR-T	MA4-5		ht	108.7	43.0	1	20	0	0.0	5.0	960	863	K		hargrave 2022-09-25 11:47:21	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA4
+MA4-5a	MA4-5a_LP-DIR-T	MA4-5		ht	108.7	43.0	1	20	100	0.0	5.0	960	863	K		hargrave 2022-09-25 11:47:21	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA4
+MA4-5a		MA4-5																	This study	LP-NOMAG				Adirondacks	MA4
+MA4-6a	MA4-6a_LP-DIR-T	MA4-6		ht	116.4	30.5	1	16	-1	0.0	5.7	960	879	K		hargrave 2022-09-25 11:50:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA4
+MA4-6a	MA4-6a_LP-DIR-T	MA4-6		ht	116.8	38.8	1	16	0	0.0	5.7	960	879	K		hargrave 2022-09-25 11:50:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA4
+MA4-6a		MA4-6																	This study	LP-NOMAG				Adirondacks	MA4
+MA4-6a	MA4-6a_LP-DIR-T	MA4-6		ht	116.8	38.8	1	16	100	0.0	5.7	960	879	K		hargrave 2022-09-25 11:50:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA4
+MA4-7a	MA4-7a_LP-DIR-T	MA4-7		ht	117.2	35.5	1	16	100	0.0	4.4	960	879	K		hargrave 2022-09-25 11:52:24	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA4
+MA4-7a	MA4-7a_LP-DIR-T	MA4-7		ht	117.2	35.5	1	16	0	0.0	4.4	960	879	K		hargrave 2022-09-25 11:52:24	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA4
+MA4-7a	MA4-7a_LP-DIR-T	MA4-7		ht	105.7	34.5	1	16	-1	0.0	4.4	960	879	K		hargrave 2022-09-25 11:52:24	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA4
+MA4-7a		MA4-7																	This study	LP-NOMAG				Adirondacks	MA4
+MA4-8a		MA4-8																	This study	LP-NOMAG				Adirondacks	MA4
+MA4-8a	MA4-8a_LP-DIR-T	MA4-8		ht	107.3	30.9	1	16	-1	0.0	3.9	960	879	K		hargrave 2022-09-25 11:53:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA4
+MA4-8a	MA4-8a_LP-DIR-T	MA4-8		ht	117.9	32.4	1	16	0	0.0	3.9	960	879	K		hargrave 2022-09-25 11:53:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA4
+MA4-8a	MA4-8a_LP-DIR-T	MA4-8		ht	117.9	32.4	1	16	100	0.0	3.9	960	879	K		hargrave 2022-09-25 11:53:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA4
+MA4-9a		MA4-9																	This study	LP-NOMAG				Adirondacks	MA4
+MA4-9a	MA4-9a_LP-DIR-T	MA4-9		ht	95.8	52.0	1	17	-1	0.0	2.4	960	874	K		hargrave 2022-09-25 11:55:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA4
+MA4-9a	MA4-9a_LP-DIR-T	MA4-9		ht	107.7	40.7	1	17	0	0.0	2.4	960	874	K		hargrave 2022-09-25 11:55:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA4
+MA4-9a	MA4-9a_LP-DIR-T	MA4-9		ht	107.7	40.7	1	17	100	0.0	2.4	960	874	K		hargrave 2022-09-25 11:55:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA4
+MA5-1a	MA5-1a_LP-DIR-T	MA5-1		ht	95.7	47.5	3	13	100	0.0	18.2	948	879	K		hargrave 2022-09-22 12:28:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-1a	MA5-1a_LP-DIR-T	MA5-1		lt	221.8	4.0	3	13	0	71.9	15.6	673	273	K		hargrave 2022-09-22 12:28:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-1a	MA5-1a_LP-DIR-T	MA5-1		ht	95.7	47.5	3	13	0	0.0	18.2	948	879	K		hargrave 2022-09-22 12:28:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-1a	MA5-1a_LP-DIR-T	MA5-1		mt	356.6	-45.1	3	9	-1	7.6	1.8	852	833	K		hargrave 2022-09-22 12:28:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-1a	MA5-1a_LP-DIR-T	MA5-1		lt	299.8	15.6	3	13	-1	71.9	15.6	673	273	K		hargrave 2022-09-22 12:28:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-1a	MA5-1a_LP-DIR-T	MA5-1		ht	177.7	25.5	3	13	-1	0.0	18.2	948	879	K		hargrave 2022-09-22 12:28:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA5
+MA5-1a	MA5-1a_LP-DIR-T	MA5-1		mt	272.6	-67.0	3	9	0	7.6	1.8	852	833	K		hargrave 2022-09-22 12:28:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-1a	MA5-1a_LP-DIR-T	MA5-1		lt	221.8	4.0	3	13	100	71.9	15.6	673	273	K		hargrave 2022-09-22 12:28:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-1a	MA5-1a_LP-DIR-T	MA5-1		mt	272.6	-67.0	3	9	100	7.6	1.8	852	833	K		hargrave 2022-09-22 12:28:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-1a		MA5-1																	This study	LP-NOMAG				Adirondacks	MA5
+MA5-2a	MA5-2a_LP-DIR-T	MA5-2		ht	132.2	13.6	3	19	-1	0.0	5.6	952	860	K		hargrave 2022-09-22 12:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA5
+MA5-2a	MA5-2a_LP-DIR-T	MA5-2		mt	265.9	-72.3	3	10	0	57.7	2.4	855	833	K		hargrave 2022-09-22 12:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-2a	MA5-2a_LP-DIR-T	MA5-2		lt	239.9	3.6	3	12	0	83.3	6.6	648	273	K		hargrave 2022-09-22 12:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-2a	MA5-2a_LP-DIR-T	MA5-2		ht	58.7	31.0	3	19	0	0.0	5.6	952	860	K		hargrave 2022-09-22 12:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-2a	MA5-2a_LP-DIR-T	MA5-2		mt	265.9	-72.3	3	10	100	57.7	2.4	855	833	K		hargrave 2022-09-22 12:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-2a	MA5-2a_LP-DIR-T	MA5-2		lt	239.9	3.6	3	12	100	83.3	6.6	648	273	K		hargrave 2022-09-22 12:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-2a	MA5-2a_LP-DIR-T	MA5-2		ht	58.7	31.0	3	19	100	0.0	5.6	952	860	K		hargrave 2022-09-22 12:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-2a	MA5-2a_LP-DIR-T	MA5-2		lt	299.3	18.5	3	12	-1	83.3	6.6	648	273	K		hargrave 2022-09-22 12:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-2a	MA5-2a_LP-DIR-T	MA5-2		mt	347.4	-45.9	3	10	-1	57.7	2.4	855	833	K		hargrave 2022-09-22 12:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-2a		MA5-2																	This study	LP-NOMAG				Adirondacks	MA5
+MA5-3a	MA5-3a_LP-DIR-T	MA5-3		lt	223.2	25.0	3	13	0	91.9	18.8	673	273	K		hargrave 2022-09-22 12:33:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-3a		MA5-3																	This study	LP-NOMAG				Adirondacks	MA5
+MA5-3a	MA5-3a_LP-DIR-T	MA5-3		mt	348.0	-43.1	3	10	-1	19.5	2.8	855	833	K		hargrave 2022-09-22 12:33:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-3a	MA5-3a_LP-DIR-T	MA5-3		lt	281.8	33.1	3	13	-1	91.9	18.8	673	273	K		hargrave 2022-09-22 12:33:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-3a	MA5-3a_LP-DIR-T	MA5-3		ht	144.8	33.0	3	21	-1	0.0	13.1	952	855	K		hargrave 2022-09-22 12:33:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA5
+MA5-3a	MA5-3a_LP-DIR-T	MA5-3		mt	265.1	-67.1	3	10	0	19.5	2.8	855	833	K		hargrave 2022-09-22 12:33:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-3a	MA5-3a_LP-DIR-T	MA5-3		ht	56.9	51.5	3	21	100	0.0	13.1	952	855	K		hargrave 2022-09-22 12:33:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-3a	MA5-3a_LP-DIR-T	MA5-3		lt	223.2	25.0	3	13	100	91.9	18.8	673	273	K		hargrave 2022-09-22 12:33:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-3a	MA5-3a_LP-DIR-T	MA5-3		mt	265.1	-67.1	3	10	100	19.5	2.8	855	833	K		hargrave 2022-09-22 12:33:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-3a	MA5-3a_LP-DIR-T	MA5-3		ht	56.9	51.5	3	21	0	0.0	13.1	952	855	K		hargrave 2022-09-22 12:33:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-4a		MA5-4																	This study	LP-NOMAG				Adirondacks	MA5
+MA5-4a	MA5-4a_LP-DIR-T	MA5-4		mt	340.4	-44.1	2	10	-1	4.4	1.4	860	840	K		hargrave 2022-09-12 11:40:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-4a	MA5-4a_LP-DIR-T	MA5-4		lt	279.6	6.5	2	13	-1	76.7	26.9	673	273	K		hargrave 2022-09-12 11:40:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-4a	MA5-4a_LP-DIR-T	MA5-4		mt	250.8	-67.2	2	10	0	4.4	1.4	860	840	K		hargrave 2022-09-12 11:40:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-4a	MA5-4a_LP-DIR-T	MA5-4		lt	210.8	1.7	2	13	0	76.7	26.9	673	273	K		hargrave 2022-09-12 11:40:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-4a	MA5-4a_LP-DIR-T	MA5-4		mt	250.8	-67.2	2	10	100	4.4	1.4	860	840	K		hargrave 2022-09-12 11:40:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-4a	MA5-4a_LP-DIR-T	MA5-4		lt	210.8	1.7	2	13	100	76.7	26.9	673	273	K		hargrave 2022-09-12 11:40:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-5a	MA5-5a_LP-DIR-T	MA5-5		mt	267.7	-63.0	3	9	0	99.8	5.3	849	828	K		hargrave 2022-09-22 15:08:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-5a	MA5-5a_LP-DIR-T	MA5-5		lt	242.4	1.4	3	8	0	31.5	8.3	548	373	K		hargrave 2022-09-22 15:08:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-5a	MA5-5a_LP-DIR-T	MA5-5		ht	140.2	49.5	3	18	0	0.0	9.4	948	860	K		hargrave 2022-09-22 15:08:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-5a	MA5-5a_LP-DIR-T	MA5-5		mt	267.7	-63.0	3	9	100	99.8	5.3	849	828	K		hargrave 2022-09-22 15:08:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-5a	MA5-5a_LP-DIR-T	MA5-5		lt	242.4	1.4	3	8	100	31.5	8.3	548	373	K		hargrave 2022-09-22 15:08:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-5a	MA5-5a_LP-DIR-T	MA5-5		mt	342.0	-15.2	3	9	-1	99.8	5.3	849	828	K		hargrave 2022-09-22 15:08:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-5a	MA5-5a_LP-DIR-T	MA5-5		ht	187.4	-2.9	3	18	-1	0.0	9.4	948	860	K		hargrave 2022-09-22 15:08:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA5
+MA5-5a	MA5-5a_LP-DIR-T	MA5-5		lt	283.7	19.6	3	8	-1	31.5	8.3	548	373	K		hargrave 2022-09-22 15:08:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-5a	MA5-5a_LP-DIR-T	MA5-5		ht	140.2	49.5	3	18	100	0.0	9.4	948	860	K		hargrave 2022-09-22 15:08:48	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-5a		MA5-5																	This study	LP-NOMAG				Adirondacks	MA5
+MA5-6a		MA5-6																	This study	LP-NOMAG				Adirondacks	MA5
+MA5-6a	MA5-6a_LP-DIR-T	MA5-6		mt	351.1	-16.7	2	11	-1	0.6	1.5	852	813	K		hargrave 2022-09-12 11:43:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-6a	MA5-6a_LP-DIR-T	MA5-6		lt	255.1	35.5	2	14	-1	102.8	25.1	673	273	K		hargrave 2022-09-12 11:43:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-6a	MA5-6a_LP-DIR-T	MA5-6		mt	273.2	-71.8	2	11	0	0.6	1.5	852	813	K		hargrave 2022-09-12 11:43:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-6a	MA5-6a_LP-DIR-T	MA5-6		lt	237.0	29.4	2	14	0	102.8	25.1	673	273	K		hargrave 2022-09-12 11:43:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-6a	MA5-6a_LP-DIR-T	MA5-6		mt	273.2	-71.8	2	11	100	0.6	1.5	852	813	K		hargrave 2022-09-12 11:43:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-6a	MA5-6a_LP-DIR-T	MA5-6		lt	237.0	29.4	2	14	100	102.8	25.1	673	273	K		hargrave 2022-09-12 11:43:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-7a	MA5-7a_LP-DIR-T	MA5-7		mt	275.0	-66.2	2	11	0	6.8	2.7	849	813	K		hargrave 2022-08-19 12:22:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-7a	MA5-7a_LP-DIR-T	MA5-7		lt	252.8	48.7	2	6	100	113.5	16.0	473	273	K		hargrave 2022-08-19 12:22:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-7a	MA5-7a_LP-DIR-T	MA5-7		mt	275.0	-66.2	2	11	100	6.8	2.7	849	813	K		hargrave 2022-08-19 12:22:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-7a	MA5-7a_LP-DIR-T	MA5-7		lt	252.8	48.7	2	6	0	113.5	16.0	473	273	K		hargrave 2022-08-19 12:22:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-7a		MA5-7																	This study	LP-NOMAG				Adirondacks	MA5
+MA5-7a	MA5-7a_LP-DIR-T	MA5-7		lt	228.7	45.4	2	6	-1	113.5	16.0	473	273	K		hargrave 2022-08-19 12:22:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-7a	MA5-7a_LP-DIR-T	MA5-7		mt	348.0	-8.1	2	11	-1	6.8	2.7	849	813	K		hargrave 2022-08-19 12:22:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-8a	MA5-8a_LP-DIR-T	MA5-8		mt	273.4	-67.4	3	4	100	24.1	2.0	838	813	K		hargrave 2022-09-22 15:10:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-8a	MA5-8a_LP-DIR-T	MA5-8		ht	176.2	-5.0	3	14	-1	0.0	10.4	952	879	K		hargrave 2022-09-22 15:10:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA5
+MA5-8a	MA5-8a_LP-DIR-T	MA5-8		mt	273.4	-67.4	3	4	0	24.1	2.0	838	813	K		hargrave 2022-09-22 15:10:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-8a	MA5-8a_LP-DIR-T	MA5-8		ht	119.8	49.9	3	14	0	0.0	10.4	952	879	K		hargrave 2022-09-22 15:10:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-8a	MA5-8a_LP-DIR-T	MA5-8		lt	223.4	45.3	3	6	0	113.5	7.2	473	273	K		hargrave 2022-09-22 15:10:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA5
+MA5-8a	MA5-8a_LP-DIR-T	MA5-8		ht	119.8	49.9	3	14	100	0.0	10.4	952	879	K		hargrave 2022-09-22 15:10:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-8a	MA5-8a_LP-DIR-T	MA5-8		lt	223.4	45.3	3	6	100	113.5	7.2	473	273	K		hargrave 2022-09-22 15:10:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA5
+MA5-8a	MA5-8a_LP-DIR-T	MA5-8		mt	347.7	-15.3	3	4	-1	24.1	2.0	838	813	K		hargrave 2022-09-22 15:10:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA5-8a		MA5-8																	This study	LP-NOMAG				Adirondacks	MA5
+MA5-8a	MA5-8a_LP-DIR-T	MA5-8		lt	232.9	29.0	3	6	-1	113.5	7.2	473	273	K		hargrave 2022-09-22 15:10:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA5
+MA6-1a		MA6-1																	This study	LP-NOMAG				Adirondacks	MA6
+MA6-2a		MA6-2																	This study	LP-NOMAG				Adirondacks	MA6
+MA6-3a		MA6-3																	This study	LP-NOMAG				Adirondacks	MA6
+MA6-4a		MA6-4																	This study	LP-NOMAG				Adirondacks	MA6
+MA6-5a		MA6-5																	This study	LP-NOMAG				Adirondacks	MA6
+MA6-6a		MA6-6																	This study	LP-NOMAG				Adirondacks	MA6
+MA6-7a		MA6-7																	This study	LP-NOMAG				Adirondacks	MA6
+MA6-8a		MA6-8																	This study	LP-NOMAG				Adirondacks	MA6
+MA7-1a	MA7-1a_LP-DIR-T	MA7-1		ht	90.1	65.7	1	12	100	0.0	1.8	905	856	K		hargrave 2022-09-13 16:01:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA7
+MA7-1a		MA7-1																	This study	LP-NOMAG				Adirondacks	MA7
+MA7-1a	MA7-1a_LP-DIR-T	MA7-1		ht	178.9	12.7	1	12	-1	0.0	1.8	905	856	K		hargrave 2022-09-13 16:01:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA7
+MA7-1a	MA7-1a_LP-DIR-T	MA7-1		ht	90.1	65.7	1	12	0	0.0	1.8	905	856	K		hargrave 2022-09-13 16:01:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA7
+MA7-2a	MA7-2a_LP-DIR-T	MA7-2		ht	100.1	57.3	1	13	100	0.0	3.9	905	852	K		hargrave 2022-09-13 16:02:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA7
+MA7-2a	MA7-2a_LP-DIR-T	MA7-2		ht	100.1	57.3	1	13	0	0.0	3.9	905	852	K		hargrave 2022-09-13 16:02:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA7
+MA7-2a	MA7-2a_LP-DIR-T	MA7-2		ht	181.5	5.3	1	13	-1	0.0	3.9	905	852	K		hargrave 2022-09-13 16:02:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA7
+MA7-2a		MA7-2																	This study	LP-NOMAG				Adirondacks	MA7
+MA7-3a		MA7-3																	This study	LP-NOMAG				Adirondacks	MA7
+MA7-4a	MA7-4a_LP-DIR-T	MA7-4		ht	145.0	57.3	1	9	0	0.0	7.7	878	849	K		hargrave 2022-09-13 16:05:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA7
+MA7-4a	MA7-4a_LP-DIR-T	MA7-4		ht	145.0	57.3	1	9	100	0.0	7.7	878	849	K		hargrave 2022-09-13 16:05:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA7
+MA7-4a	MA7-4a_LP-DIR-T	MA7-4		ht	192.8	22.8	1	9	-1	0.0	7.7	878	849	K		hargrave 2022-09-13 16:05:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA7
+MA7-4a		MA7-4																	This study	LP-NOMAG				Adirondacks	MA7
+MA7-5a		MA7-5																	This study	LP-NOMAG				Adirondacks	MA7
+MA7-6a	MA7-6a_LP-DIR-T	MA7-6		mt	292.2	69.3	1	19	100	16.6	6.6	773	273	K		hargrave 2022-09-13 16:08:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA7
+MA7-6a	MA7-6a_LP-DIR-T	MA7-6		mt	292.2	69.3	1	19	0	16.6	6.6	773	273	K		hargrave 2022-09-13 16:08:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA7
+MA7-6a	MA7-6a_LP-DIR-T	MA7-6		mt	177.2	64.6	1	19	-1	16.6	6.6	773	273	K		hargrave 2022-09-13 16:08:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA7
+MA7-6a		MA7-6																	This study	LP-NOMAG				Adirondacks	MA7
+MA7-7a	MA7-7a_LP-DIR-T	MA7-7		mt	326.4	68.1	1	14	0	9.0	3.9	673	273	K		hargrave 2022-09-13 16:09:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA7
+MA7-7a	MA7-7a_LP-DIR-T	MA7-7		mt	152.9	62.8	1	14	-1	9.0	3.9	673	273	K		hargrave 2022-09-13 16:09:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA7
+MA7-7a		MA7-7																	This study	LP-NOMAG				Adirondacks	MA7
+MA7-7a	MA7-7a_LP-DIR-T	MA7-7		mt	326.4	68.1	1	14	100	9.0	3.9	673	273	K		hargrave 2022-09-13 16:09:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA7
+MA7-8a		MA7-8																	This study	LP-NOMAG				Adirondacks	MA7
+MA7-9a	MA7-9a_LP-DIR-T	MA7-9		mt	325.1	68.3	1	14	0	29.6	10.0	673	273	K		hargrave 2022-09-13 16:12:49	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA7
+MA7-9a		MA7-9																	This study	LP-NOMAG				Adirondacks	MA7
+MA7-9a	MA7-9a_LP-DIR-T	MA7-9		mt	158.9	60.6	1	14	-1	29.6	10.0	673	273	K		hargrave 2022-09-13 16:12:49	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA7
+MA7-9a	MA7-9a_LP-DIR-T	MA7-9		mt	325.1	68.3	1	14	100	29.6	10.0	673	273	K		hargrave 2022-09-13 16:12:49	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA7
+MA8-1a	MA8-1a_LP-DIR-T	MA8-1		lt	187.2	16.8	1	25	-1	11.1	4.4	830	273	K		hargrave 2022-07-31 11:58:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA8
+MA8-1a		MA8-1																	This study	LP-NOMAG				Adirondacks	MA8
+MA8-1a	MA8-1a_LP-DIR-T	MA8-1		lt	359.7	68.9	1	25	0	11.1	4.4	830	273	K		hargrave 2022-07-31 11:58:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA8
+MA8-1a	MA8-1a_LP-DIR-T	MA8-1		lt	359.7	68.9	1	25	100	11.1	4.4	830	273	K		hargrave 2022-07-31 11:58:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA8
+MA8-2a	MA8-2a_LP-DIR-T	MA8-2		lt	206.1	42.6	1	25	-1	27.1	5.3	830	273	K		hargrave 2022-07-31 12:02:30	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA8
+MA8-2a	MA8-2a_LP-DIR-T	MA8-2		lt	350.8	68.5	1	25	0	27.1	5.3	830	273	K		hargrave 2022-07-31 12:02:30	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA8
+MA8-2a	MA8-2a_LP-DIR-T	MA8-2		lt	350.8	68.5	1	25	100	27.1	5.3	830	273	K		hargrave 2022-07-31 12:02:30	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA8
+MA8-2a		MA8-2																	This study	LP-NOMAG				Adirondacks	MA8
+MA8-3a		MA8-3																	This study	LP-NOMAG				Adirondacks	MA8
+MA8-3a	MA8-3a_LP-DIR-T	MA8-3		lt	206.0	42.5	1	25	-1	16.1	6.2	830	273	K		hargrave 2022-07-31 12:03:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA8
+MA8-3a	MA8-3a_LP-DIR-T	MA8-3		lt	346.4	68.6	1	25	0	16.1	6.2	830	273	K		hargrave 2022-07-31 12:03:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA8
+MA8-3a	MA8-3a_LP-DIR-T	MA8-3		lt	346.4	68.6	1	25	100	16.1	6.2	830	273	K		hargrave 2022-07-31 12:03:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA8
+MA8-4a	MA8-4a_LP-DIR-T	MA8-4		lt	193.8	36.7	1	25	-1	6.6	2.9	830	273	K		hargrave 2022-07-31 12:05:24	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA8
+MA8-4a	MA8-4a_LP-DIR-T	MA8-4		lt	4.4	69.4	1	25	0	6.6	2.9	830	273	K		hargrave 2022-07-31 12:05:24	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA8
+MA8-4a	MA8-4a_LP-DIR-T	MA8-4		lt	4.4	69.4	1	25	100	6.6	2.9	830	273	K		hargrave 2022-07-31 12:05:24	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA8
+MA8-4a		MA8-4																	This study	LP-NOMAG				Adirondacks	MA8
+MA8-6a	MA8-6a_LP-DIR-T	MA8-6		lt	2.2	70.3	1	25	0	7.3	2.6	830	273	K		hargrave 2022-07-31 12:07:36	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA8
+MA8-6a	MA8-6a_LP-DIR-T	MA8-6		lt	2.2	70.3	1	25	100	7.3	2.6	830	273	K		hargrave 2022-07-31 12:07:36	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA8
+MA8-6a	MA8-6a_LP-DIR-T	MA8-6		lt	175.9	4.7	1	25	-1	7.3	2.6	830	273	K		hargrave 2022-07-31 12:07:36	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA8
+MA8-6a		MA8-6																	This study	LP-NOMAG				Adirondacks	MA8
+MA8-7a	MA8-7a_LP-DIR-T	MA8-7		lt	309.4	75.6	1	25	100	1.1	3.1	830	273	K		hargrave 2022-07-31 12:08:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA8
+MA8-7a	MA8-7a_LP-DIR-T	MA8-7		lt	309.4	75.6	1	25	0	1.1	3.1	830	273	K		hargrave 2022-07-31 12:08:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA8
+MA8-7a	MA8-7a_LP-DIR-T	MA8-7		lt	176.2	15.1	1	25	-1	1.1	3.1	830	273	K		hargrave 2022-07-31 12:08:57	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA8
+MA8-7a		MA8-7																	This study	LP-NOMAG				Adirondacks	MA8
+MA8-8a	MA8-8a_LP-DIR-T	MA8-8		lt	182.7	19.3	1	16	-1	2.3	2.4	830	573	K		hargrave 2022-07-31 12:10:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA8
+MA8-8a	MA8-8a_LP-DIR-T	MA8-8		lt	322.4	75.1	1	16	0	2.3	2.4	830	573	K		hargrave 2022-07-31 12:10:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA8
+MA8-8a		MA8-8																	This study	LP-NOMAG				Adirondacks	MA8
+MA8-8a	MA8-8a_LP-DIR-T	MA8-8		lt	322.4	75.1	1	16	100	2.3	2.4	830	573	K		hargrave 2022-07-31 12:10:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA8
+MA9-10a	MA9-10a_LP-DIR-T	MA9-10		mt	299.2	-63.5	1	18	0	2.3	5.8	869	823	K		hargrave 2022-08-23 12:52:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA9
+MA9-10a	MA9-10a_LP-DIR-T	MA9-10		mt	354.6	-76.4	1	18	-1	2.3	5.8	869	823	K		hargrave 2022-08-23 12:52:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA9
+MA9-10a	MA9-10a_LP-DIR-T	MA9-10		mt	299.2	-63.5	1	18	100	2.3	5.8	869	823	K		hargrave 2022-08-23 12:52:46	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA9
+MA9-10a		MA9-10																	This study	LP-NOMAG				Adirondacks	MA9
+MA9-1a		MA9-1																	This study	LP-NOMAG				Adirondacks	MA9
+MA9-2a		MA9-2																	This study	LP-NOMAG				Adirondacks	MA9
+MA9-3a		MA9-3																	This study	LP-NOMAG				Adirondacks	MA9
+MA9-3a	MA9-3a_LP-DIR-T	MA9-3		mt	26.7	-60.7	1	3	-1	0.0	0.3	830	823	K		hargrave 2022-08-23 12:42:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA9
+MA9-3a	MA9-3a_LP-DIR-T	MA9-3		mt	300.8	-69.4	1	3	0	0.0	0.3	830	823	K		hargrave 2022-08-23 12:42:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA9
+MA9-3a	MA9-3a_LP-DIR-T	MA9-3		mt	300.8	-69.4	1	3	100	0.0	0.3	830	823	K		hargrave 2022-08-23 12:42:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA9
+MA9-4a	MA9-4a_LP-DIR-T	MA9-4		mt	294.9	-64.5	1	3	0	0.0	4.0	830	823	K		hargrave 2022-08-23 12:46:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA9
+MA9-4a	MA9-4a_LP-DIR-T	MA9-4		mt	16.5	-49.1	1	3	-1	0.0	4.0	830	823	K		hargrave 2022-08-23 12:46:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA9
+MA9-4a		MA9-4																	This study	LP-NOMAG				Adirondacks	MA9
+MA9-4a	MA9-4a_LP-DIR-T	MA9-4		mt	294.9	-64.5	1	3	100	0.0	4.0	830	823	K		hargrave 2022-08-23 12:46:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA9
+MA9-5a	MA9-5a_LP-DIR-T	MA9-5		mt	19.0	-34.1	1	18	-1	14.6	22.2	869	823	K		hargrave 2022-08-23 12:48:33	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA9
+MA9-5a		MA9-5																	This study	LP-NOMAG				Adirondacks	MA9
+MA9-5a	MA9-5a_LP-DIR-T	MA9-5		mt	261.7	-72.7	1	18	0	14.6	22.2	869	823	K		hargrave 2022-08-23 12:48:33	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA9
+MA9-5a	MA9-5a_LP-DIR-T	MA9-5		mt	261.7	-72.7	1	18	100	14.6	22.2	869	823	K		hargrave 2022-08-23 12:48:33	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA9
+MA9-6a		MA9-6																	This study	LP-NOMAG				Adirondacks	MA9
+MA9-7a		MA9-7																	This study	LP-NOMAG				Adirondacks	MA9
+MA9-8a		MA9-8																	This study	LP-NOMAG				Adirondacks	MA9
+MA9-8a	MA9-8a_LP-DIR-T	MA9-8		mt	308.1	-69.1	1	18	0	3.7	8.6	869	823	K		hargrave 2022-08-23 12:49:58	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Adirondacks	MA9
+MA9-8a	MA9-8a_LP-DIR-T	MA9-8		mt	333.5	-76.7	1	18	-1	3.7	8.6	869	823	K		hargrave 2022-08-23 12:49:58	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Adirondacks	MA9
+MA9-8a	MA9-8a_LP-DIR-T	MA9-8		mt	308.1	-69.1	1	18	100	3.7	8.6	869	823	K		hargrave 2022-08-23 12:49:58	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Adirondacks	MA9
+MA9-9a	MA9-9a_LP-DIR-T	MA9-9		mt	346.1	-80.0	1	18	-1	0.0	5.0	869	823	K		hargrave 2022-08-23 12:51:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Adirondacks	MA9
+MA9-9a		MA9-9																	This study	LP-NOMAG				Adirondacks	MA9
+MA9-9a	MA9-9a_LP-DIR-T	MA9-9		mt	298.2	-65.6	1	18	0	0.0	5.0	869	823	K		hargrave 2022-08-23 12:51:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Adirondacks	MA9
+MA9-9a	MA9-9a_LP-DIR-T	MA9-9		mt	298.2	-65.6	1	18	100	0.0	5.0	869	823	K		hargrave 2022-08-23 12:51:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Adirondacks	MA9
